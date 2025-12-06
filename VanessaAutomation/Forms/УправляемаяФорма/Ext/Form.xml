@@ -19715,7 +19715,7 @@ If the field is empty, then the log will not be output to a text file.</v8:conte
 																								</v8:item>
 																								<v8:item>
 																									<v8:lang>en</v8:lang>
-																									<v8:content>List of tags to exclude</v8:content>
+																									<v8:content>List of excluded variables</v8:content>
 																								</v8:item>
 																								<v8:item>
 																									<v8:lang>am</v8:lang>
@@ -19731,11 +19731,11 @@ If the field is empty, then the log will not be output to a text file.</v8:conte
 																								</v8:item>
 																								<v8:item>
 																									<v8:lang>de</v8:lang>
-																									<v8:content>Liste der ausgeschlossenen Tags</v8:content>
+																									<v8:content>Liste der ausgeschlossenen variablen</v8:content>
 																								</v8:item>
 																								<v8:item>
 																									<v8:lang>es</v8:lang>
-																									<v8:content>La lista de exclusión de las etiquetas</v8:content>
+																									<v8:content>La lista de variables excluidas</v8:content>
 																								</v8:item>
 																								<v8:item>
 																									<v8:lang>et</v8:lang>
@@ -19743,7 +19743,7 @@ If the field is empty, then the log will not be output to a text file.</v8:conte
 																								</v8:item>
 																								<v8:item>
 																									<v8:lang>fr</v8:lang>
-																									<v8:content>La liste des exclus des balises</v8:content>
+																									<v8:content>La liste des variables exclues</v8:content>
 																								</v8:item>
 																								<v8:item>
 																									<v8:lang>hu</v8:lang>
@@ -19751,7 +19751,7 @@ If the field is empty, then the log will not be output to a text file.</v8:conte
 																								</v8:item>
 																								<v8:item>
 																									<v8:lang>it</v8:lang>
-																									<v8:content>Elenco esclusi tag</v8:content>
+																									<v8:content>Elenco delle variabili escluse</v8:content>
 																								</v8:item>
 																								<v8:item>
 																									<v8:lang>ka</v8:lang>
