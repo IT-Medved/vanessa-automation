@@ -199,11 +199,19 @@
 												<Title formatted="false">
 													<v8:item>
 														<v8:lang>ru</v8:lang>
-														<v8:content>Каталог, в котором хранятся текстовые файлы с объектами-исключениями. Для каждого вида объектов метаданных или события должен быть отдельный файл ("Справочники", "Документы" и т. д.).</v8:content>
+														<v8:content>Каталог, в котором хранятся текстовые файлы с объектами-исключениями. Для каждого вида объектов метаданных или события должен быть отдельный файл ("Справочники*", "Документы*" и т. д.). Доп.условием можно задать через "." тип теста (ФормаСписка, ФормаОбъекта, Запись, Копирование, ВводНаОсновании, Печать).
+Примеры:
+Документ1
+Документ2.ФормаОбъекта
+Документ3.Списка</v8:content>
 													</v8:item>
 													<v8:item>
 														<v8:lang>en</v8:lang>
-														<v8:content>The directory in which text files with exception objects are stored. For each type of metadata object or event there must be a separate file ("Directories", "Documents", etc.).</v8:content>
+														<v8:content>The directory in which text files with exception objects are stored. For each type of metadata object or event there must be a separate file ("Catalogs", "Documents", etc.). 
+Example:
+Document1
+Document2.ObjectForm
+Document3.ListForm</v8:content>
 													</v8:item>
 												</Title>
 											</ExtendedTooltip>
@@ -1950,6 +1958,25 @@
 			</Title>
 			<Type>
 				<v8:Type>xs:boolean</v8:Type>
+			</Type>
+		</Attribute>
+		<Attribute name="ВариантВстроенногоЯзыка" id="22">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Вариант встроенного языка</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Script variant</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
 			</Type>
 		</Attribute>
 		<ConditionalAppearance>
