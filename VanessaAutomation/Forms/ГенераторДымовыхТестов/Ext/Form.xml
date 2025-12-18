@@ -539,6 +539,40 @@ Document3.ListForm</v8:content>
 								</ColumnGroup>
 							</ChildItems>
 						</Table>
+						<InputField name="ДымовыеТестыНачальнаяДатаДляПодбораДокументов" id="255">
+							<DataPath>Объект.ДымовыеТестыНачальнаяДатаДляПодбораДокументов</DataPath>
+							<Title>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Начальная дата для подбора документов</v8:content>
+								</v8:item>
+							</Title>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ДымовыеТестыНачальнаяДатаДляПодбораДокументовКонтекстноеМеню" id="256"/>
+							<ExtendedTooltip name="ДымовыеТестыНачальнаяДатаДляПодбораДокументовРасширеннаяПодсказка" id="257">
+								<Title formatted="true">
+									<v8:item>
+										<v8:lang>ru</v8:lang>
+										<v8:content>При установке даты, подбор документов для дымовых тестов будет осуществлен от нее, то есть ДатаДокумента &gt;&gt;=  Начальная дата для подбора документов</v8:content>
+									</v8:item>
+									<v8:item>
+										<v8:lang>en</v8:lang>
+										<v8:content>When setting the date, the selection of documents for smoke tests will be carried out from it, that is, the DocumentDate &gt;&gt;= The starting date for the selection of documents</v8:content>
+									</v8:item>
+									<v8:item>
+										<v8:lang>uz</v8:lang>
+										<v8:content>Sana o'rnatilganda, tutun sinovlari uchun hujjatlarni tanlash undan amalga oshiriladi, ya'ni Hujjat sanasi &gt;&gt;= Hujjatlarni tanlash uchun boshlanish sanasi</v8:content>
+									</v8:item>
+									<v8:item>
+										<v8:lang>уз</v8:lang>
+										<v8:content>Сана ўрнатилганда, ундан тутун синовлари учун ҳужжатларни танлаш амалга оширилади , яъни ҳужжат санаси &gt;&gt;= ҳужжатларни танлашнинг бошланиш санаси</v8:content>
+									</v8:item>
+								</Title>
+							</ExtendedTooltip>
+							<Events>
+								<Event name="OnChange">НачальнаяДатаДляПодбораДокументовПриИзменении</Event>
+							</Events>
+						</InputField>
 						<Button name="ФормаСформироватьФайлы" id="7">
 							<Type>UsualButton</Type>
 							<DefaultButton>true</DefaultButton>
