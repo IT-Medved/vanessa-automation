@@ -546,6 +546,10 @@ Document3.ListForm</v8:content>
 									<v8:lang>ru</v8:lang>
 									<v8:content>Начальная дата для подбора документов</v8:content>
 								</v8:item>
+								<v8:item>
+									<v8:lang>en</v8:lang>
+									<v8:content>The starting date for the selection of documents</v8:content>
+								</v8:item>
 							</Title>
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 							<ContextMenu name="ДымовыеТестыНачальнаяДатаДляПодбораДокументовКонтекстноеМеню" id="256"/>
