@@ -5,6 +5,7 @@
 #parent ua:
 @UA36_запуск_CLI
 
+@uf-part1
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb
