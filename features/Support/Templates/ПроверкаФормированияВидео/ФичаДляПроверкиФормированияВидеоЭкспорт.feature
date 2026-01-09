@@ -2,6 +2,7 @@
 
 @tree
 @Exportscenarios
+@IgnoreOnCIMainBuild
 
 Функционал: Экспорт
 
