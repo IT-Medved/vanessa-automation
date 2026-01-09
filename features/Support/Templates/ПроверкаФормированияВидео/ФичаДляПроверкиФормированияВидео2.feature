@@ -1,6 +1,7 @@
 ﻿#language: ru
 
 @tree
+@IgnoreOnCIMainBuild
 
 Функционал: ФичаДляПроверкиФормированияВидео2
 
