@@ -3308,7 +3308,7 @@
 				|			If '" + ИмяКоманды + "' attribute is present on the form Then 
 				|				And I click the button named '" + ИмяКоманды + "'
 				|				If the warning is displayed then
-				|					Then I raise ""Failed to Generate " + ИмяГруппы + " based on " + ПредставлениеОбъекта + """ exception" + "
+				|					Then I raise ""Failed to Generate " + ИмяГруппы + " based on " + ПредставлениеОбъекта + """ exception" + " 
 				|				If current form name is ""ErrorWindow"" Then
 				|					Then I raise ""Failed to Generate " + ИмяГруппы + " based on " + ПредставлениеОбъекта + """ exception" + "
 				|				Then '* (" + ПредставлениеОкноСоздания + ")' window is opened
