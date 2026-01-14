@@ -539,12 +539,6 @@ Document3.ListForm</v8:content>
 								</ColumnGroup>
 							</ChildItems>
 						</Table>
-						<Button name="ФормаСформироватьФайлы" id="7">
-							<Type>UsualButton</Type>
-							<DefaultButton>true</DefaultButton>
-							<CommandName>Form.Command.СформироватьФайлы</CommandName>
-							<ExtendedTooltip name="ФормаСформироватьФайлыРасширеннаяПодсказка" id="8"/>
-						</Button>
 						<UsualGroup name="СтраницаНастройкиОтбораДокументов" id="258">
 							<Title>
 								<v8:item>
@@ -647,6 +641,12 @@ Document3.ListForm</v8:content>
 								</CheckBoxField>
 							</ChildItems>
 						</UsualGroup>
+						<Button name="ФормаСформироватьФайлы" id="7">
+							<Type>UsualButton</Type>
+							<DefaultButton>true</DefaultButton>
+							<CommandName>Form.Command.СформироватьФайлы</CommandName>
+							<ExtendedTooltip name="ФормаСформироватьФайлыРасширеннаяПодсказка" id="8"/>
+						</Button>
 					</ChildItems>
 				</Page>
 				<Page name="СтраницаФормированияСценариевПоМетаданным" id="117">
