@@ -61215,10 +61215,12 @@
 	Шаблоны.Вставить("НачалоТеста", "##teamcity[testStarted name='$Tag$.$CurrentTest$' flowId='$Tag$']");
 	Шаблоны.Вставить("ОшибкаТестаНаСравнение", "##teamcity[testFailed type='comparisonFailure' name='$Tag$.$CurrentTest$' details='$Details$' flowId='$Tag$' expected='$expected$' actual='$actual$']");
 	Шаблоны.Вставить("ОшибкаТеста", "##teamcity[testFailed name='$Tag$.$CurrentTest$' details='$Details$' flowId='$Tag$']");
+	Шаблоны.Вставить("ВыводСообщенияВГруппу", "##teamcity[testStdOut name='$Tag$.$CurrentTest$' out='$line$' flowId='$Tag$']");
+	Шаблоны.Вставить("ОкончаниеТеста", "##teamcity[testFinished name='$Tag$.$CurrentTest$' duration='$TotalMilliseconds$' flowId='$Tag$']");
 
 	Структура.Вставить("Шаблоны", Шаблоны);
 	Возврат Структура;
-КонецФункции     
+КонецФункции        
 
 &НаКлиенте
 Процедура ВывестиЛогTeamCity(Знач СтрокаСценария, Знач ТекущийФичаФайл)
