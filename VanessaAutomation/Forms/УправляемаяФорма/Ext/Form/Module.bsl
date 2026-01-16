@@ -61197,24 +61197,24 @@
 	
 	Структура = Новый Структура();
 	
-	Структура.Вставить("Используется", Истина);
+	Структура.Вставить("Используется", Ложь);
 	Структура.Вставить("ЭтоПервыйЗапуск", Истина);
-	Структура.Вставить("IDПотока", "FlowID");
+	Структура.Вставить("IDПотока", "");
 	Структура.Вставить("ТекущийФичаФайл", "");
 	Структура.Вставить("ТекущийСценарий", "");
+	Структура.Вставить("ДлительностьТеста", 0);
+	Структура.Вставить("ТекстОшибки", "");
 	
 	Шаблоны = Новый Структура;
-	Шаблоны.Вставить("НачалоГруппы", "##teamcity[flowStarted flowId='$Tag']");
-	Шаблоны.Вставить("ОкончаниеГруппы", "##teamcity[flowFinished flowId='$Tag']");  
+	Шаблоны.Вставить("НачалоГруппы", "##teamcity[flowStarted flowId='$Tag$']");
+	Шаблоны.Вставить("ОкончаниеГруппы", "##teamcity[flowFinished flowId='$Tag$']");  
 	
-	Шаблоны.Вставить("НачалоФичаФайла", "##teamcity[testSuiteStarted name='$Tag.$CurrentFeatureFile' flowId='$Tag']");
-	Шаблоны.Вставить("ОкончаниеФичаФайла", "##teamcity[testSuiteFinished name='$Tag.$CurrentFeatureFile' flowId='$Tag']");    
+	Шаблоны.Вставить("НачалоФичаФайла", "##teamcity[testSuiteStarted name='$Tag$.$CurrentFeatureFile$' flowId='$Tag$']");
+	Шаблоны.Вставить("ОкончаниеФичаФайла", "##teamcity[testSuiteFinished name='$Tag$.$CurrentFeatureFile$' flowId='$Tag$']");    
 	
-	Шаблоны.Вставить("НачалоТеста", "##teamcity[testStarted name='$Tag.$CurrentTest' flowId='$Tag']");
-	Шаблоны.Вставить("ОшибкаТестаНаСравнение", "##teamcity[testFailed type='comparisonFailure' name='$Tag.$CurrentTest' details='$_' flowId='$Tag' expected='$expected' actual='$actual']");
-	Шаблоны.Вставить("ОшибкаТеста", "##teamcity[testFailed name='$Tag.$CurrentTest' details='$_' flowId='$Tag']");
-	Шаблоны.Вставить("ВыводСообщенияВГруппу", "##teamcity[testStdOut name='$Tag.$CurrentTest' out='$line' flowId='$Tag']");
-	Шаблоны.Вставить("ОкончаниеТеста", "##teamcity[testFinished name='$Tag.$CurrentTest' duration='$TotalMilliseconds' flowId='$Tag']");
+	Шаблоны.Вставить("НачалоТеста", "##teamcity[testStarted name='$Tag$.$CurrentTest$' flowId='$Tag$']");
+	Шаблоны.Вставить("ОшибкаТестаНаСравнение", "##teamcity[testFailed type='comparisonFailure' name='$Tag$.$CurrentTest$' details='$Details$' flowId='$Tag$' expected='$expected$' actual='$actual$']");
+	Шаблоны.Вставить("ОшибкаТеста", "##teamcity[testFailed name='$Tag$.$CurrentTest$' details='$Details$' flowId='$Tag$']");
 
 	Структура.Вставить("Шаблоны", Шаблоны);
 	Возврат Структура;
@@ -61279,51 +61279,6 @@
 	КонецЕсли;
 
 КонецПроцедуры
-
-&НаКлиенте
-Функция ЭкранированиеСообщенияTeamCity(Стр)
-	Стр = СтрЗаменить(Стр, "|", "||");
-	Стр = СтрЗаменить(Стр, "'", "|'");
-	Стр = СтрЗаменить(Стр, "[", "|[");
-	Стр = СтрЗаменить(Стр, "]", "|]");
-	Стр = СтрЗаменить(Стр, Символы.ВК, "|r");
-	Стр = СтрЗаменить(Стр, Символы.ПС, "|n");
-	Возврат Стр;
-КонецФункции
-
-#КонецОбласти
-
-#Область TeamCity
-
-&НаКлиенте
-Функция НастройкиTeamCity()
-	
-	Структура = Новый Структура();
-	
-	Структура.Вставить("Используется", Ложь);
-	Структура.Вставить("ЭтоПервыйЗапуск", Истина);
-	Структура.Вставить("IDПотока", "");
-	Структура.Вставить("ТекущийФичаФайл", "");
-	Структура.Вставить("ТекущийСценарий", "");
-	Структура.Вставить("ДлительностьТеста", 0);
-	Структура.Вставить("ТекстОшибки", "");
-	
-	Шаблоны = Новый Структура;
-	Шаблоны.Вставить("НачалоГруппы", "##teamcity[flowStarted flowId='$Tag$']");
-	Шаблоны.Вставить("ОкончаниеГруппы", "##teamcity[flowFinished flowId='$Tag$']");  
-	
-	Шаблоны.Вставить("НачалоФичаФайла", "##teamcity[testSuiteStarted name='$Tag$.$CurrentFeatureFile$' flowId='$Tag$']");
-	Шаблоны.Вставить("ОкончаниеФичаФайла", "##teamcity[testSuiteFinished name='$Tag$.$CurrentFeatureFile$' flowId='$Tag$']");    
-	
-	Шаблоны.Вставить("НачалоТеста", "##teamcity[testStarted name='$Tag$.$CurrentTest$' flowId='$Tag$']");
-	Шаблоны.Вставить("ОшибкаТестаНаСравнение", "##teamcity[testFailed type='comparisonFailure' name='$Tag$.$CurrentTest$' details='$Details$' flowId='$Tag$' expected='$expected$' actual='$actual$']");
-	Шаблоны.Вставить("ОшибкаТеста", "##teamcity[testFailed name='$Tag$.$CurrentTest$' details='$Details$' flowId='$Tag$']");
-	Шаблоны.Вставить("ВыводСообщенияВГруппу", "##teamcity[testStdOut name='$Tag$.$CurrentTest$' out='$line$' flowId='$Tag$']");
-	Шаблоны.Вставить("ОкончаниеТеста", "##teamcity[testFinished name='$Tag$.$CurrentTest$' duration='$TotalMilliseconds$' flowId='$Tag$']");
-
-	Структура.Вставить("Шаблоны", Шаблоны);
-	Возврат Структура;
-КонецФункции     
 
 &НаКлиенте
 Процедура НачатьТестTeamCity(СтрокаСценария)
