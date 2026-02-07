@@ -20,7 +20,7 @@ jobs:
     
     - name: Извлечение версии
       shell: bash
-      run: echo "##[set-output name=version;]` cat ./VanessaAutomation/Ext/ObjectModule.bsl | grep -oP '(?<=Версия \= ").[\d|.]*'`"
+      run: echo "version=$(grep -oP '(?<=Версия \= \").[\d|.]*' ./VanessaAutomation/Ext/ObjectModule.bsl)" >> "$GITHUB_OUTPUT"
       id: extract_version
 
     - name: Настройка sonar-scanner
