@@ -31,8 +31,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-      run: sonar-scanner
-        -Dsonar.host.url=https://sonar.openbsl.ru
-        -Dsonar.branch.name=${{ env.BRANCH_NAME }}
-        -Dsonar.projectVersion=${{ steps.extract_version.outputs.version }}
-          
+      run: |
+        sonar-scanner \
+          -Dsonar.host.url=https://sonar.openbsl.ru \
+          -Dsonar.branch.name=${{ env.BRANCH_NAME }} \
+          -Dsonar.projectVersion=${{ steps.extract_version.outputs.version }}
