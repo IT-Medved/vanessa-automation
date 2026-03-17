@@ -25671,7 +25671,7 @@ And I set the deletion mark for the objects specified for deletion (extension)</
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random female name to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random female name to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25722,7 +25722,7 @@ Names template is built into Vanessa, a list of available surnames is located in
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random name to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random name to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25773,7 +25773,7 @@ Names template is built into Vanessa, a list of available surnames is located in
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random male name to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random male name to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25824,7 +25824,7 @@ Names template is built into Vanessa, a list of available surnames is located in
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random item name to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random item name to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25923,7 +25923,7 @@ Names template is built into Vanessa, the list contains the names of foreign eco
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>AAnd I save a random birth date to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random birth date to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25973,7 +25973,7 @@ Names template is built into Vanessa, the list contains the names of foreign eco
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random female surname to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random female surname to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26024,7 +26024,7 @@ Surnames template is built into Vanessa, a list of available surnames is located
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random male name to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random male name to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26075,7 +26075,7 @@ Surnames template is built into Vanessa, a list of available surnames is located
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random surname to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random surname to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26125,7 +26125,7 @@ Surnames template is built into Vanessa, a list of available surnames is located
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random INN of an individual to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random INN of an individual to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26174,7 +26174,7 @@ Surnames template is built into Vanessa, a list of available surnames is located
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random INN of a legal entity to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random INN of a legal entity to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26223,7 +26223,7 @@ Surnames template is built into Vanessa, a list of available surnames is located
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random RRC of a legal entity to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random RRC of a legal entity to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26272,7 +26272,7 @@ Surnames template is built into Vanessa, a list of available surnames is located
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random phone number to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random phone number to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26321,7 +26321,7 @@ Surnames template is built into Vanessa, a list of available surnames is located
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random Individual insurance account number to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random Individual insurance account number to "%1 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30058,7 +30058,7 @@ The third column specifies search mode for form element: if the third column is 
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I activate "%2 ElementTitle" form item addition</v8:content>
+							<v8:content>And I activate "%1 ElementTitle" form item addition</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30107,7 +30107,7 @@ The third column specifies search mode for form element: if the third column is 
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I activate the form item addition named "%2 ElementName"</v8:content>
+							<v8:content>And I activate the form item addition named "%1 ElementName"</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30715,7 +30715,7 @@ to ensure that the spreadsheet document is cleared.</v8:content>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I click the clear button of "%2 ElementTitle" form item addition</v8:content>
+							<v8:content>And I click the clear button of "%1 ElementTitle" form item addition</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30764,7 +30764,7 @@ to ensure that the spreadsheet document is cleared.</v8:content>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I click the clear button of the form item addition named "%2 ElementName"</v8:content>
+							<v8:content>And I click the clear button of the form item addition named "%1 ElementName"</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30862,7 +30862,7 @@ to ensure that the spreadsheet document is cleared.</v8:content>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I cancel editing of "%2 ElementTitle" form item addition</v8:content>
+							<v8:content>And I cancel editing of "%1 ElementTitle" form item addition</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30911,7 +30911,7 @@ to ensure that the spreadsheet document is cleared.</v8:content>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I cancel editing of of the form item addition named "%2 ElementName"</v8:content>
+							<v8:content>And I cancel editing of of the form item addition named "%1 ElementName"</v8:content>
 						</v8:item>
 					</tl>
 				</c>
