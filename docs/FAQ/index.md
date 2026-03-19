@@ -160,21 +160,21 @@
 ## Как отключить появление окна, при падении в дамп процесса 1С на Windows?
 * Нужно в реестре установить значения параметров
 	* DontShowUI
-		```
+		```text
 		Ключ: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\Windows Error Reporting
 		Имя: DontShowUI
 		Значение: 1
 		Тип: dword
 		```
 	* ShutdownReasonOn
-		```
+		```text
 		Ключ: HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Reliability
 		Имя: ShutdownReasonOn
 		Значение: 0
 		Тип: dword
 		```
 	* ShutdownReasonUI
-		```
+		```text
 		Ключ: HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Reliability
 		Имя: ShutdownReasonUI
 		Значение: 0
@@ -252,7 +252,7 @@
 
 ## Как передать значение переменной с клиента на сервер, затем изменить значение на сервере и вернуть новое значение обратно в переменную?
 * Примеры:
-	```
+	```Gherkin
 	// 1. Значение помещается в переменную
 	И я запоминаю строку "НужнаяСтрока" в переменную "ИмяПеременной"
 
