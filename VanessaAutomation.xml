@@ -22,6 +22,10 @@
 					<v8:lang>en</v8:lang>
 					<v8:content>Vanessa Automation</v8:content>
 				</v8:item>
+				<v8:item>
+					<v8:lang>sv</v8:lang>
+					<v8:content>Vanessa Automation</v8:content>
+				</v8:item>
 			</Synonym>
 			<Comment/>
 			<DefaultForm>ExternalDataProcessor.VanessaAutomation.Form.ЧтениеПараметровПриОткрытии</DefaultForm>
@@ -39,6 +43,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Debug log</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Felsökningslogg</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -82,6 +90,10 @@
 							<v8:lang>vi</v8:lang>
 							<v8:content>Phiên bản của nền tảng cho tạo ra kiểm tra</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Plattformsversion för EPF-generering</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -124,6 +136,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Generate epf</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Generera EPF</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -161,6 +177,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Address of custom settings</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Adress för anpassade inställningar</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -203,6 +223,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Address data error</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Adressdatafel</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -360,6 +384,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Show module text instead of EPF regeneration</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Visa modultext istället för EPF-omgenerering</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -397,6 +425,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Download scenario fulfillment statuses to file</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ladda ner scenariokörningsstatus till fil</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -436,6 +468,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Run scenario from notification handler</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kör scenario från notifieringshanterare</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -473,6 +509,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Run data processor upon opening</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kör dataprocessor vid öppning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -512,6 +552,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Run scenarios after downloading features</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kör scenarier efter nedladdning av features</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -549,6 +593,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Run scenarios after downloading features once</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kör scenarier efter nedladdning av features en gång</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -588,6 +636,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Run steps asynchronously</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kör steg asynkront</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -626,6 +678,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Generate managed form</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Generera hanterat formulär</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -663,6 +719,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Test suites grouping</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Gruppering av testsviter</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -705,6 +765,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Write scenarios execution to event log</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Skriv scenariokörning till händelselogg</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -858,6 +922,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Generate JSON for every error</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Generera JSON för varje fel</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -895,6 +963,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Generate report in internal format</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Generera rapport i internt format</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -934,6 +1006,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Generate report in cucumber json format</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Generera rapport i Cucumber JSON-format</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -971,6 +1047,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Generate report in jUnit format</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Generera rapport i JUnit-format</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -1010,6 +1090,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Generate report in Allure format</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Generera rapport i Allure-format</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -1022,6 +1106,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Create a scenario execution report in Allure format.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Skapa en scenariokörningsrapport i Allure-format.</v8:content>
 						</v8:item>
 					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
@@ -1052,6 +1140,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Generate report in ASDS format</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Generera rapport i ASDS-format</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -1091,6 +1183,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Take screenshot in case of errors or on demand</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ta skärmbild vid fel eller på begäran</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -1129,6 +1225,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Translitarate messages</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Translitterera meddelanden</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -1166,6 +1266,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Tests tree</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Testträd</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -1323,6 +1427,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Add uploading conditions to scenario name</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Lägg till uppladdningsvillkor till scenarionamn</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -1360,6 +1468,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Add meta information when clicking</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Lägg till metainformation vid klick</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -1399,6 +1511,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Additional parameters</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ytterligare parametrar</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type/>
@@ -1434,6 +1550,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>There is support of the function to decompose a string to an array of substrings</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Det finns stöd för funktionen att dela upp en sträng i en array av delsträngar</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -1473,6 +1593,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Exit the system after completing all scenarios</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Avsluta systemet efter att alla scenarier har slutförts</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -1510,6 +1634,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Download features upon opening</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ladda features vid öppning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -1553,6 +1681,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Close test client after running scenarios</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Stäng testklienten efter att scenarier har körts</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -1591,6 +1723,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Close the form after executing the data processor</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Stäng formuläret efter att dataprocessorn har körts</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -1628,6 +1764,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Voice (Amazon)</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Röst (Amazon)</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -1671,6 +1811,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Engine</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Motor</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -1712,6 +1856,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Access key</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Åtkomstnyckel</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -1755,6 +1903,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Secret key</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Hemlig nyckel</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -1797,6 +1949,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Language (Amazon)</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Språk (Amazon)</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -1837,6 +1993,10 @@
 						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
+							<v8:content>Region</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
 							<v8:content>Region</v8:content>
 						</v8:item>
 					</Synonym>
@@ -1881,6 +2041,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Oauth token</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>OAuth-token</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -1923,6 +2087,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Voice (Yandex)</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Röst (Yandex)</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -1949,6 +2117,13 @@
 
 - Female voices: Alyss, Jane, Oksana and Omazh.
 - Male voices: Zahar и Ermil.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Syntetiserad talröst.
+
+- Kvinnliga röster: Alyss, Jane, Oksana och Omazh.
+- Manliga röster: Zahar och Ermil.</v8:content>
 						</v8:item>
 					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
@@ -1979,6 +2154,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Directory ID</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Katalog-ID</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -2022,6 +2201,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Speed (Yandex)</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Hastighet (Yandex)</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -2064,6 +2247,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Emotion</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Känsla</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -2120,6 +2307,10 @@
 							<v8:lang>ro</v8:lang>
 							<v8:content>Limba</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Språk</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -2161,6 +2352,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Request option</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Förfrågningsalternativ</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -2212,6 +2407,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Api Key</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>API-nyckel</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -2253,6 +2452,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Music volume</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Musikvolym</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -2297,6 +2500,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Step group as step (video)</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Steggrupp som steg (video)</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -2334,6 +2541,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video overlap TTS </v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Överlappa TTS vid videoinspelning </v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -2373,6 +2584,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Add music to file with feature title</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Lägg till musik till fil med feature-titel</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -2410,6 +2625,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Add music to final slide</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Lägg till musik till sista bilden</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -2449,6 +2668,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Add subtitiles</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Lägg till undertexter</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -2465,6 +2688,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Adds subtitles with details of the steps being executed to the video</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Lägger till undertexter med detaljer om de steg som körs till videon</v8:content>
 						</v8:item>
 					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
@@ -2495,6 +2722,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Replace slide with feature title with video</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ersätt bild med feature-titel med video</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -2534,6 +2765,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Replace final slide with video</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ersätt sista bilden med video</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -2571,6 +2806,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video TTS name</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>TTS-namn för videoinspelning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -2613,6 +2852,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Video recording tool</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Verktyg för videoinspelning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -2661,6 +2904,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video temporary files directory</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Katalog för tillfälliga videoinspelningsfiler</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -2681,6 +2928,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>The directory where files will be stored during video tutorials generation.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Katalogen där filer lagras under generering av videohandledningar.</v8:content>
 						</v8:item>
 					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
@@ -2711,6 +2962,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video music directory</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Musikkatalog för videoinspelning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -2754,6 +3009,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video frames amount</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Antal bildrutor för videoinspelning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -2796,6 +3055,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video convert command</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kommando för videokonvertering</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -2844,6 +3107,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video FFmpeg command</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kommando för videoinspelning FFmpeg</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -2868,6 +3135,12 @@
 							<v8:content>Video running and processing command. Also you can specify a full path to ffmpeg.exe file   
 
 Default: ffmpeg</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kommando för videokörning och bearbetning. Du kan även ange en fullständig sökväg till ffmpeg.exe   
+
+Standard: ffmpeg</v8:content>
 						</v8:item>
 					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
@@ -2898,6 +3171,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video command start video recording</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kommando för att starta videoinspelning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -2941,6 +3218,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Video inset cache</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Cache för videoinfogningar</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -2983,6 +3264,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Cache video inserts</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Cachelagra videoinfogningar</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3020,6 +3305,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Cache voiceovers</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Cachelagra berättarröster</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -3063,6 +3352,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>TTS files cache</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>TTS-filcache</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -3111,6 +3404,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Disable steps time scaling</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Inaktivera tidsskalning för steg</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3149,6 +3446,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Disable slide with feature title</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Inaktivera bild med feature-titel</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3165,6 +3466,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Disables video tutorial slide at the beginning of the video with information from the "Functionality" block of feature file</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Inaktiverar videoinstruktionsbilden i början av videon med information från "Funktionalitet"-blocket i feature-filen</v8:content>
 						</v8:item>
 					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
@@ -3196,6 +3501,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Disable scenario slide</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Inaktivera scenariobild</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3212,6 +3521,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Disables the video tutorial slide with scenario title details</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Inaktiverar videoinstruktionsbilden med scenariotiteldetaljer</v8:content>
 						</v8:item>
 					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
@@ -3243,6 +3556,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Disable final slide</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Inaktivera sista bilden</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3259,6 +3576,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Disables video tutorial slide at the end of the video with information about scenario build</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Inaktiverar videoinstruktionsbilden i slutet av videon med information om scenariobygge</v8:content>
 						</v8:item>
 					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
@@ -3289,6 +3610,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video move the mouse pointer to the active form item</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Flytta muspekaren till aktivt formulärobjekt vid videoinspelning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -3328,6 +3653,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video highlight active form items</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Markera aktiva formulärobjekt vid videoinspelning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3365,6 +3694,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Highlight mouse click</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Markera musklick</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -3404,6 +3737,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video show mouse pointer</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Visa muspekare vid videoinspelning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3441,6 +3778,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Acceleration percentage</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Accelerationsprocent</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -3485,6 +3826,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video path to TTS engine</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Sökväg till TTS-motor för videoinspelning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3526,6 +3871,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Path to video file with feature title</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Sökväg till videofil med feature-titel</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -3569,6 +3918,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Path to the video file of the final slide</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Sökväg till videofilen för sista bilden</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3610,6 +3963,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Speed</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Hastighet</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -3654,6 +4011,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Hide service windows</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Dölj servicefönster</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3692,6 +4053,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video replacements dictionary</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ersättningsordbok för videoinspelning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3729,6 +4094,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Voice acting type</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Typ av berättarröst</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -3773,6 +4142,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video file watermark</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Videoinspelning filens vattenstämpel</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3814,6 +4187,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video file mouse pointer</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Videoinspelning filens muspekare</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -3861,6 +4238,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>ro</v8:lang>
 							<v8:content>HTML</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>HTML</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3903,6 +4284,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>ro</v8:lang>
 							<v8:content>Markdown</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Markdown</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -3939,6 +4324,10 @@ Default: ffmpeg</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
+							<v8:content>Video</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
 							<v8:content>Video</v8:content>
 						</v8:item>
 					</Synonym>
@@ -3978,6 +4367,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video screen height</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Videoinspelning skärmhöjd</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -4022,6 +4415,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video screen width</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Videoinspelning skärmbredd</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -4064,6 +4461,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video left screen side</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Videoinspelning vänster skärmsida</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -4108,6 +4509,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video screen top</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Videoinspelning skärmens överkant</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -4151,6 +4556,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Emulate keyboard input</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Emulera tangentbordsinmatning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -4189,6 +4598,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Emulate mouse movements</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Emulera musrörelser</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -4226,6 +4639,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>TTS engine processing path</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Sökväg för TTS-motorbearbetning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -4268,6 +4685,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Run TestClient with maximize window</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kör testklient med maximerat fönster</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -4421,6 +4842,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Run from command line</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kör från kommandorad</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -4458,6 +4883,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Running scenarios</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kör scenarier</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -4497,6 +4926,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Recording the video</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Spela in video</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -4533,6 +4966,10 @@ Default: ffmpeg</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
+							<v8:content>RunID</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
 							<v8:content>RunID</v8:content>
 						</v8:item>
 					</Synonym>
@@ -4577,6 +5014,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Directory for errors in json format</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Katalog för fel i JSON-format</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -4618,6 +5059,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Current build name</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Aktuellt byggnamn</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -4661,6 +5106,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>File name of external framework commands</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Filnamn för externa ramverkskommandon</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -4702,6 +5151,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Text log file</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Textloggfil</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -4864,6 +5317,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Step interval defined by user</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Stegintervall definierat av användare</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -4907,6 +5364,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Search for form items by names</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Sök formulärobjekt efter namn</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -4944,6 +5405,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Use Sikulix server</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Använd SikuliX-server</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -4983,6 +5448,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Use an add-in for screenshots</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Använd ett tillägg för skärmbilder</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -5021,6 +5490,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Enable use of the VanessaExt component</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Aktivera användning av VanessaExt-komponenten</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -5058,6 +5531,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Allure export directory</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Allure-exportkatalog</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -5101,6 +5578,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Base allure export directory</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bas-Allure-exportkatalog</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -5142,6 +5623,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Cucumber json download directory</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Cucumber JSON-nedladdningskatalog</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -5185,6 +5670,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>JUnit Export directory</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>JUnit-exportkatalog</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -5226,6 +5715,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>HTML tutorial export directory</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>HTML-handledningsexportkatalog</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -5269,6 +5762,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Markdown tutorial export directory</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Markdown-handledningsexportkatalog</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -5310,6 +5807,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Video tutorial export directory</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Exportkatalog för videohandledning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -5353,6 +5854,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Screenshots export directory</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Exportkatalog för skärmbilder</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -5394,6 +5899,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>ASDS downloads directory</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>ASDS-nedladdningskatalog</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -5437,6 +5946,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Generated pictures directory </v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Katalog för genererade bilder </v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -5479,6 +5992,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Library directories</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bibliotekskataloger</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -5495,6 +6012,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Library files directory</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Katalog för biblioteksfiler</v8:content>
 						</v8:item>
 					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
@@ -5530,6 +6051,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>vi</v8:lang>
 							<v8:content>Thư mục công cụ</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Verktygskatalog</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -5550,6 +6075,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Root directory for additional framework files. By default, it is a directory for the main VA data processor.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Rotkatalog för ytterligare ramverksfiler. Som standard är det katalogen för huvudbehandlingen VA.</v8:content>
 						</v8:item>
 					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
@@ -5580,6 +6109,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>SikuliX scripts directory</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>SikuliX-skriptkatalog</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -5623,6 +6156,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Sources directory</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Källkatalog</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -5664,6 +6201,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Root directory to build a hierarchy</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Rotkatalog för att bygga en hierarki</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -5830,6 +6371,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Features directory</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Feature-katalog</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -5990,6 +6535,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Number of action execution attempts</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Antal försök att köra åtgärd</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -6032,6 +6581,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Window search time in seconds</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Söktid för fönster i sekunder</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -6194,6 +6747,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Create Screenshot command</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kommando för att skapa skärmbild</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -6236,6 +6793,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Steps from metadata</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Steg från metadata</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -6252,6 +6813,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Library metadata</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Biblioteksmetadata</v8:content>
 						</v8:item>
 					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
@@ -6282,6 +6847,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Refresh tree on scenario execution start</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Uppdatera träd vid start av scenariokörning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -6320,6 +6889,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Update script execution statistics</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Uppdatera skriptkörningsstatistik</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -6473,6 +7046,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Pause on opening window</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Paus vid öppning av fönster</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -6515,6 +7092,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Plugins</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Tillägg</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -6734,6 +7315,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Custom settings provider</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Leverantör av anpassade inställningar</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -6775,6 +7360,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Equate Pending to Failed</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Likställ Pending med Failed</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -6847,6 +7436,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Path to the file for unloading the script execution status</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Sökväg till fil för att exportera skriptkörningsstatus</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -7170,6 +7763,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Generated scenario</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Genererat scenario</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -7364,6 +7961,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Collect data about the active form state when an error occurs</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Samla in data om aktivt formulärstatus vid fel</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -7401,6 +8002,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Collect status data for all forms on error</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Samla in statusdata för alla formulär vid fel</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -7541,6 +8146,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Create a video tutorial</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Skapa en videohandledning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -7953,6 +8562,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Timeout for asynchronous steps</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Timeout för asynkrona steg</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -7996,6 +8609,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Test client startup timeout</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Timeout för testklientstart</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment>Таймаут запуска TestClient в секундах</Comment>
 					<Type>
@@ -8038,6 +8655,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Tree tag is enabled by default</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Trädtagg är aktiverad som standard</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -8255,6 +8876,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Report level 1</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Rapportnivå 1</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -8297,6 +8922,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Report level 2</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Rapportnivå 2</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -8338,6 +8967,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Report level 3</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Rapportnivå 3</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -8499,6 +9132,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Attach event log to allure report</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bifoga händelselogg till Allure-rapport</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -8536,6 +9173,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Attach active form state info to allure report</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bifoga info om aktivt formulärstatus till Allure-rapport</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -8575,6 +9216,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Attach all forms state info to allure report</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bifoga statusinfo för alla formulär till Allure-rapport</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -8612,6 +9257,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Collect data about network connections</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Samla in data om nätverksanslutningar</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -8651,6 +9300,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Collect data about OS processes</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Samla in data om OS-processer</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -8688,6 +9341,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Attach network connection info to allure report</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bifoga nätverksanslutningsinfo till Allure-rapport</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -8727,6 +9384,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Attach OS processes data to allure report</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bifoga OS-processdata till Allure-rapport</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -8764,6 +9425,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Tags skipping script</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Skript för att hoppa över taggar</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -8807,6 +9472,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Browser launch command</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kommando för webbläsarstart</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -8849,6 +9518,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Use browser + web socket</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Använd webbläsare + websocket</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -8886,6 +9559,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Emulate mouse actions</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Emulera musåtgärder</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -8925,6 +9602,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Emulate keyboard input</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Emulera tangentbordsinmatning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -8962,6 +9643,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Ignore errors of browser elements search</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ignorera fel vid sökning av webbläsarelement</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -9001,6 +9686,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Attach variable values info to allure report</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bifoga variabelvärdesinfo till Allure-rapport</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9038,6 +9727,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Screen scaling factor</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Skärmskalningsfaktor</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -9082,6 +9775,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Record video of test session</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Spela in video av testsession</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9119,6 +9816,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Number of frames when recording video of test execution</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Antal bildrutor vid videoinspelning av testkörning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -9163,6 +9864,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Video recording command</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kommando för videoinspelning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9204,6 +9909,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Directory for recording video of test execution</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Katalog för videoinspelning av testkörning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -9280,6 +9989,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Test run</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Testkörning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -9437,6 +10150,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Safe steps fulfillment (deprecated)</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Säker stegkörning (föråldrad)</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9478,6 +10195,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>vi</v8:lang>
 							<v8:content>Phiên bản bộ cài đặt</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Distributionspaketversion</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -9521,6 +10242,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Use Vanessa Editor</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Använd Vanessa Editor</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9558,6 +10283,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Vanessa Editor theme</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Vanessa Editor-tema</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -9601,6 +10330,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Use current form data when selecting steps in the editor</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Använd aktuell formulärdata vid val av steg i redigeraren</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9639,6 +10372,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Show subscript lines in editor</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Visa understreckslinjer i redigeraren</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9676,6 +10413,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Horizontal offset</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Horisontell förskjutning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -9720,6 +10461,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Vertical offset</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Vertikal förskjutning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9763,6 +10508,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Highlight mouse clicks in browser</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Markera musklick i webbläsare</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9800,6 +10549,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Number of steps</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Antal steg</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -9844,6 +10597,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Timeout between steps when moving the mouse</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Timeout mellan steg vid musförflyttning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9887,6 +10644,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Service parameters</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Serviceparametrar</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type/>
@@ -9922,6 +10683,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Show code thumbnail in editor</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Visa kodminiatyr i redigeraren</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -9961,6 +10726,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Do Sleep using Ping</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Gör Sleep med Ping</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -9999,6 +10768,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Replace tabs with spaces</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ersätt tabbar med mellanslag</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -10036,6 +10809,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Mouse click highlight color</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Färg för musklicksmarkering</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -10080,6 +10857,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Mouse click highlight radius</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Radie för musklicksmarkering</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -10122,6 +10903,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Mouse click highlight duration</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Varaktighet för musklicksmarkering</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -10166,6 +10951,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Mouse click highlight width</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bredd för musklicksmarkering</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -10208,6 +10997,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Mouse click highlight transparency</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Transparens för musklicksmarkering</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -10252,6 +11045,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Force close test client</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Tvångsstäng testklienten</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -10289,6 +11086,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Timeout before forcibly closing test client</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Timeout innan tvångsstängning av testklient</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -10333,6 +11134,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Detailed execution log</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Detaljerad körningslogg</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -10370,6 +11175,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Sound notification when script ends</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ljudnotifiering när skriptet slutar</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -10409,6 +11218,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Show bookmarks on top</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Visa bokmärken överst</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -10446,6 +11259,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Syntax checking in the editor</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Syntaxkontroll i redigeraren</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -10485,6 +11302,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Show differences in editor separately (two columns)</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Visa skillnader i redigeraren separat (två kolumner)</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -10522,6 +11343,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Finding pictures using a addin VanessaExt</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Hitta bilder med tillägget VanessaExt</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -10561,6 +11386,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Output log in console</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Skriv ut logg i konsol</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -10598,6 +11427,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Set variable values in steps</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ställ in variabelvärden i steg</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -10637,6 +11470,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Server value</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Servervärde</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment>Специальный реквизит, в который можно сохранить результат вычислений на сервере, чтобы потом прочитать его на клиенте.</Comment>
 					<Type/>
@@ -10651,6 +11488,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>A special attribute in which you can save the result of calculations on the server in order to later read it on the client.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ett speciellt attribut där du kan spara resultatet av beräkningar på servern för att senare läsa det på klienten.</v8:content>
 						</v8:item>
 					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
@@ -10681,6 +11522,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Equal pending to failed</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Likställ väntande med misslyckad</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -10720,6 +11565,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Use the Gherkin parser from the VanessaExt addin</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Använd Gherkin-parsern från VanessaExt-tillägget</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -10757,6 +11606,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Displaying tabs and spaces</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Visa tabbar och mellanslag</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -10801,6 +11654,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>autonumberingofsteps</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>autonumreringavsteg</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -10838,6 +11695,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Update form tables when getting value</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Uppdatera formulärtabeller vid hämtning av värde</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -10877,6 +11738,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Get layouts using extension VAExtension</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Hämta layouter med tillägget VAExtension</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -10914,6 +11779,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Attach mxl files to allure report</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bifoga mxl-filer till Allure-rapport</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -10953,6 +11822,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Attach mxl files saved in HTML format to Allure report</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bifoga mxl-filer sparade i HTML-format till Allure-rapport</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -10990,6 +11863,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Attach additional data when comparing value with reference</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bifoga ytterligare data vid jämförelse av värde med referens</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -11029,6 +11906,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Start test client session again on connection if it's process is not found</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Starta testklientsession igen vid anslutning om dess process inte hittas</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11066,6 +11947,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Test client process start interval</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Startintervall för testklientprocess</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -11110,6 +11995,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Use UI Automation</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Använd UI Automation</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11147,6 +12036,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Voice</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Röst</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -11190,6 +12083,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Client ID</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Klient-ID</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11231,6 +12128,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Client secret</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Klienthemlighet</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -11308,6 +12209,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Sound script execution in real time</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ljud vid skriptkörning i realtid</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11345,6 +12250,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Modal window when starting test client is error</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Modalt fönster vid start av testklient är fel</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -11384,6 +12293,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Evaluate expressions in curly braces (without Variables section)</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Utvärdera uttryck inom klammerparenteser (utan avsnittet Variabler)</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11422,6 +12335,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Collect data on variable values</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Samla in data om variabelvärden</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11459,6 +12376,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Path to adb</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Sökväg till adb</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -11502,6 +12423,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Show window for stopping script execution</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Visa fönster för att stoppa skriptkörning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11540,6 +12465,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Show variable values in editor</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Visa variabelvärden i redigeraren</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11577,6 +12506,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Voice acting cache directory for online help</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Cachekatalog för berättarröst för onlinehjälp</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -11620,6 +12553,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Create voiceovers for online help</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Skapa berättarröster för onlinehjälp</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11657,6 +12594,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Show window to stop recording user actions</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Visa fönster för att stoppa inspelning av användaråtgärder</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -11696,6 +12637,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Open start page at startup</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Öppna startsida vid start</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11733,6 +12678,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Picture search threshold</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Tröskelvärde för bildsökning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -11777,6 +12726,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Connect a hotkey to get help about current item</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Anslut en snabbtangent för hjälp om aktuellt objekt</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11814,6 +12767,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Determine the real port on which the testing client was launched</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bestäm den verkliga porten som testklienten startades på</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -11853,6 +12810,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Distinguish between Broken or Failed by Then keyword</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Skilja mellan Broken eller Failed med Then-nyckelord</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11890,6 +12851,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Scenario run</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Scenariokörning</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -11929,6 +12894,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Close interactive help script after execution</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Stäng interaktivt hjälpskript efter körning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -11966,6 +12935,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Show helper on first launch</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Visa hjälpare vid första start</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -12005,6 +12978,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Attach xlsx files to allure report</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Bifoga xlsx-filer till Allure-rapport</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12043,6 +13020,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Searching for files using the VanessaExt component</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Söka efter filer med VanessaExt-komponenten</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12080,6 +13061,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Html instruction Styles</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>HTML-instruktionsstilar</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -12123,6 +13108,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Directory of service message output files</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Katalog för servicemeddelande-utdatafiler</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12165,6 +13154,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Disable scheduled jobs execution for file infobase</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Inaktivera schemalagda jobb för filinformationsbas</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12202,6 +13195,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>On clicking escape in the editor, close the form</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Stäng formuläret vid tryck på Escape i redigeraren</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -12241,6 +13238,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Step group as step (text)</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Steggrupp som steg (text)</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12278,6 +13279,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Add feature name to text instruction</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Lägg till feature-namn i textinstruktion</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -12317,6 +13322,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Add scenario name to text instruction</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Lägg till scenarionamn i textinstruktion</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12354,6 +13363,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Start lesson</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Starta lektion</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -12393,6 +13406,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Video lessons</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Videolektioner</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12429,6 +13446,10 @@ Default: ffmpeg</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
+							<v8:content>PDF</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
 							<v8:content>PDF</v8:content>
 						</v8:item>
 					</Synonym>
@@ -12469,6 +13490,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>MD</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>MD</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12507,6 +13532,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Use Template for New Feature</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Använd mall för ny feature</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12544,6 +13573,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Directory of new feature template</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Katalog för ny feature-mall</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -12587,6 +13620,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Take browser screenshots</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ta skärmbilder av webbläsare</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12624,6 +13661,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Quit if silent installation add-in fails</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Avsluta om tyst installation av tillägg misslyckas</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -12663,6 +13704,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Use a file to stop script execution</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Använd en fil för att stoppa skriptkörning</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12701,6 +13746,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Enable HTML voiceover</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Aktivera HTML-berättarröst</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12738,6 +13787,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>HTML voice-over tempo</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>HTML-berättarröst-tempo</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -12782,6 +13835,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>HTML voiceover range</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>HTML-berättarröst-omfång</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12825,6 +13882,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>HTML voiceover voice</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>HTML-berättarröst</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12867,6 +13928,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Only one test client allowed to run</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Endast en testklient tillåts att köras</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12905,6 +13970,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Checking server calls in event handlers</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Kontrollera serveranrop i händelsehanterare</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -12942,6 +14011,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Number of attempts to execute the script</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Antal försök att köra skriptet</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -12984,6 +14057,10 @@ Default: ffmpeg</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
+							<v8:content>VariantsHTMLInstructions</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
 							<v8:content>VariantsHTMLInstructions</v8:content>
 						</v8:item>
 					</Synonym>
@@ -13029,6 +14106,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Number of the first script to run</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Nummer på det första skriptet att köra</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13072,6 +14153,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Write scripts in jUnit via TestSuite</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Skriv skript i JUnit via TestSuite</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13109,6 +14194,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Language of steps</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Stegspråk</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -13152,6 +14241,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Clear output directory</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Rensa utdatakatalog</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13189,6 +14282,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Output directory</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Utdatakatalog</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -13232,6 +14329,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Exception files directory</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Katalog för undantagsfiler</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13274,6 +14375,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Only entered objects for advanced actions</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Endast inmatade objekt för avancerade åtgärder</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13312,6 +14417,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Only changed relative to vendor configuration</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Endast ändrat relativt leverantörskonfiguration</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13349,6 +14458,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Vendor Configuration Name</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Leverantörskonfigurationsnamn</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -13392,6 +14505,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Path to script settings file</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Sökväg till skriptinställningsfil</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13434,6 +14551,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Smoke tests sort documents by desc date sort in descending order</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Röktest sortera dokument efter fallande datum</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13471,6 +14592,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Smoke tests the starting date for the selection of documents</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Röktest startdatum för urval av dokument</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -13512,6 +14637,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Maximum execution time action</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Maximal körtid för åtgärd</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -13556,6 +14685,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Configuration name</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Konfigurationsnamn</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13597,6 +14730,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Configuration version</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Konfigurationsversion</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -13640,6 +14777,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>System temporary files directory</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Katalog för systemets tillfälliga filer</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13682,6 +14823,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Mask the password in the log</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Maskera lösenordet i loggen</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13719,6 +14864,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Disable the ability for fields to overwrite text during a server call</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Inaktivera möjligheten för fält att skriva över text under ett serveranrop</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -13758,6 +14907,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Features to run</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Features att köra</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13795,6 +14948,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Processes for taking screenshots</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Processer för att ta skärmbilder</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -13838,6 +14995,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Additional parameters for launching the testing client</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Ytterligare parametrar för att starta testklienten</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13879,6 +15040,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Login (1C)</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Inloggning (1C)</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -13922,6 +15087,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Password (1C, file path)</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Lösenord (1C, filsökväg)</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -13963,6 +15132,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Key (1C)</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Nyckel (1C)</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -14006,6 +15179,10 @@ Default: ffmpeg</v8:content>
 							<v8:lang>en</v8:lang>
 							<v8:content>Voice (1C)</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Röst (1C)</v8:content>
+						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
@@ -14047,6 +15224,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Speech rate (1C)</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Talhastighet (1C)</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -14090,6 +15271,10 @@ Default: ffmpeg</v8:content>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>List of excluded allure variables</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content>Lista över exkluderade Allure-variabler</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
