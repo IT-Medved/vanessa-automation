@@ -23402,7 +23402,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Bearbetningssteg hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23429,7 +23429,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Sökvägen &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23456,7 +23456,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Okänt fel.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23483,7 +23483,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Aktivera tillägget &lt;VanessaExt&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23510,7 +23510,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Feature-fil eller katalog för feature-filer har inte angetts för inläsning.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23537,7 +23537,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Version</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23564,7 +23564,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>PIDTestClient</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23591,7 +23591,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>CurrentValueLayout</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23618,7 +23618,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ReferenceValueLayout</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23645,7 +23645,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>CurrentValueTable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23672,7 +23672,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ReferenceValueTable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23699,7 +23699,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>RowsSearchedInTable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23726,7 +23726,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>CurrentReportValue</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23753,7 +23753,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fel</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23780,7 +23780,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ActiveFormState</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23807,7 +23807,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>AllFormsState</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23834,7 +23834,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>EventLog</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23861,7 +23861,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Skillnader</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23888,7 +23888,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>DataAboutNetworkConnections</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23915,7 +23915,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ProcessesData</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23942,7 +23942,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Spara ändringar?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23969,7 +23969,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det finns osparade ändringar. Är du säker?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -23996,7 +23996,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Sparar fil.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24023,7 +24023,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fliken med rubriken &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24050,7 +24050,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Spara filen för att utföra denna åtgärd.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24077,7 +24077,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Översättningsproblem hittades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24104,7 +24104,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tomma rader i bibliotekslistan är inte tillåtna.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24131,7 +24131,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Stöds inte i Linux OS.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24158,7 +24158,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Commit-text har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24185,7 +24185,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inga ändringar att spara.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24212,7 +24212,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det aktuella fältet &lt;%1&gt; är inte en tabell.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24239,7 +24239,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ange nytt grennamn</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24266,7 +24266,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Skapa ny</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24293,7 +24293,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fönstertexten &lt;%1&gt; matchar inte mönstret &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24320,7 +24320,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tunn</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24347,7 +24347,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fönstret som innehåller formuläret &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24374,7 +24374,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Testklientdata</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24401,7 +24401,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>VariablesData</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24428,7 +24428,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fönstret som innehåller formuläret &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24455,7 +24455,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Steget &lt;%1&gt; misslyckades i Försök/Undantag-sektionen. Trädrad nr %2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24482,7 +24482,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Steget som misslyckades i Försök/Undantag-sektionen hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24509,7 +24509,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fönsterlistan för processen &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24536,7 +24536,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Felaktig åtgärd med bilden &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24563,7 +24563,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Komponenten VanessaExt installerades inte korrekt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24590,7 +24590,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Textutskriften misslyckades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24617,7 +24617,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kommandot &lt;%1&gt; kunde inte köras.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24644,7 +24644,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ogiltigt statusvärde för scenariot &lt;%1&gt; skickades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24671,7 +24671,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fel uppstod vid inläsning av feature-filer.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24698,7 +24698,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Hämta formulärändringar i stegformat</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24725,7 +24725,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Hämta hela formulärets tillstånd i stegformat</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24752,7 +24752,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tyst installation av den externa komponenten VanessaExt har utförts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24779,7 +24779,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Okänd typ av parametern &lt;%1&gt; i strängen: &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24806,7 +24806,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Testklienten startades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24833,7 +24833,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>En befintlig testklient är ansluten.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24860,7 +24860,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Analys av feature-filer.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24887,7 +24887,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Stegträd</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24914,7 +24914,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Antal parametrar stämmer inte överens i steget &lt;%1&gt; och i dess översättning: &lt;%2&gt; och &lt;%3&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24941,7 +24941,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Sökvägen för att spara skärmbilder har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24968,7 +24968,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Aktuella inställningar</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -24995,7 +24995,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Jämförelse av inställningar och fil</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25022,7 +25022,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ingen loop hittades att avbryta.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25049,7 +25049,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Aktuellt formulärattribut &lt;%1&gt; är: %2, och förväntat var: %3</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25076,7 +25076,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Aktuellt värde för cellen &lt;%1&gt; i tabellen &lt;%2&gt; är: %3, och förväntat var: %4</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25103,7 +25103,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Aktuellt värde för cellen i tabellen &lt;%1&gt; är: %2, och förväntat var: %3</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25130,7 +25130,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Före stegkörning</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25157,7 +25157,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Efter stegkörning</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25184,7 +25184,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte fastställa versionen av filen &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25211,7 +25211,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Beskrivning av startfilparametrar för Vanessa Automation från kommandoraden.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25238,7 +25238,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Mallen för denna fil kan erhållas genom att exportera Vanessa Automation-inställningarna till filen VAParams.json.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25265,7 +25265,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Denna fil skapades automatiskt baserat på formulärdata i Vanessa Automation. Skicka pull requests till formulärfältens verktygstips.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25292,7 +25292,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>För att kopiera information till urklipp måste du aktivera tillägget &lt;VanessaExt&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25319,7 +25319,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Bakgrundsjobb avslutades inte inom &lt;%1&gt; sekunder.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25346,7 +25346,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fönstret &lt;%1&gt; innehåller &lt;%2&gt; formulär.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25373,7 +25373,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Länken för rubriken &lt;%1&gt; hittades inte bland länkarna &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25400,7 +25400,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Modalt dialogfönster med objektinformation hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25427,7 +25427,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte beräkna uttrycket på testklientens sida.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25454,7 +25454,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte mata ut aktuella formulärdata från testklienten.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25481,7 +25481,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Värden för element i fönstret &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25508,7 +25508,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte utvärdera uttrycket i testklientens aktuella formulärkontext.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25535,7 +25535,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte köra uttrycket i testklientens aktuella formulärkontext.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25562,7 +25562,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tillägget med namnet &lt;%1&gt; är inte installerat.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25589,7 +25589,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tillägget med namnet &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25616,7 +25616,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ett fel uppstod vid inställning av flaggor för tillägget &lt;%1&gt;: &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25643,7 +25643,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Välj fönster.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25670,7 +25670,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte konvertera &quot;ogg&quot;-fil till &quot;mp3&quot;. Kommando:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25697,7 +25697,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte konvertera pdf till bild. Kommando:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25724,7 +25724,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte hämta skillnaden mellan bilderna. Kommando:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25751,7 +25751,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte hämta animationen av skillnaden mellan bilderna. Kommando:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25778,7 +25778,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Testhanteraren körs inte under Linux. Aktuella OS-data: &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25805,7 +25805,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Rad nr %1 i kalkylbladsdokumentet hittades inte i förlagan.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25832,7 +25832,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Sökvägen till TTS-motorprocessorn har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25859,7 +25859,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Videoinspelning är aktiverad.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25886,7 +25886,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Videoinspelning är inaktiverad.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25913,7 +25913,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Välj feature-fil.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25940,7 +25940,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Jämförelse med %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25967,7 +25967,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Aktuell fil</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -25994,7 +25994,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte utföra tyst installation av VanessaExt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26021,7 +26021,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Välj filnamn.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26048,7 +26048,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Stegfortsättning anropades, men stegkörningen var inte stoppad.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26075,7 +26075,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Omstart av testklient, tidigare startad process hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26102,7 +26102,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tidigare startad 1C-process hittades: &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26129,7 +26129,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fönster för licensinhämtning hittades. Process &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26156,7 +26156,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>PID för testklienten med namnet &lt;%1&gt; är inte definierad.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26183,7 +26183,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>UI Automation kunde inte hitta knappen &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26210,7 +26210,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte klicka på UI Automation-elementet. Elementet är osynligt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26237,7 +26237,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>UI Automation-element hittades inte. PID &lt;%1&gt;, rubrik &lt;%2&gt;, typ &lt;%3&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26264,7 +26264,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>UI Automation-element hittades inte. PID &lt;%1&gt;, rubrik &lt;%2&gt;, typ &lt;%3&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26291,7 +26291,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Hittade &lt;%1&gt; UI Automation-element med angiven data: PID &lt;%1&gt;&lt;%2&gt;, rubrik &lt;%3&gt;, typ &lt;%4&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26318,7 +26318,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Windows-registret innehåller inte sökvägen till webbläsaren Google Chrome. Ange sökvägen manuellt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26345,7 +26345,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Scenariouppläsning aktiverad.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26372,7 +26372,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Scenariouppläsning inaktiverad</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26399,7 +26399,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fel vid beräkning av variabelvärdet &lt;%1&gt;, uttryck &lt;%2&gt;. Felmeddelande: &lt;%3&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26426,7 +26426,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fel vid beräkning av uttrycksvärdet &lt;%1&gt;. Felmeddelande: &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26453,7 +26453,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fel vid beräkning av uttrycksvariabeln &lt;%1&gt;. Variabeltabellen hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26480,7 +26480,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntade i &lt;%1&gt; sekunder på att fältet &lt;%2&gt; skulle ha värdet &lt;%3&gt;. Aktuellt värde &lt;%4&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26507,7 +26507,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntade i &lt;%1&gt; sekunder på att fältet &lt;%2&gt; skulle ha ett annat värde än &lt;%3&gt;. Aktuellt värde &lt;%4&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26534,7 +26534,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>OSProcessesData</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26561,7 +26561,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>VariableValues</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26588,7 +26588,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>NetworkConnectionsData</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26615,7 +26615,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Sökvägen till adb-programfilen har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26642,7 +26642,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Katalogen för mp3-filcache har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26669,7 +26669,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>UI Automation-element hittades inte. PID &lt;%1&gt;, rubrik &lt;%2&gt;, typ &lt;%3&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26696,7 +26696,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>UI Automation-element hittades inte med angivna parametrar.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26723,7 +26723,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>&lt;%1&gt; element hittades med angivna parametrar.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26750,7 +26750,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>En tabell med två rader måste skickas.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26777,7 +26777,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Testklient med PID &lt;%1&gt; mottagen.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26804,7 +26804,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Sökväg till tokenfil har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26831,7 +26831,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Stoppa scenariokörning</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26858,7 +26858,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Stopp</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26885,7 +26885,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Stoppa lektionen</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26912,7 +26912,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Lektionen är avslutad.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26939,7 +26939,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Scenariokörning: &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26966,7 +26966,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Lektionskörning: &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26993,7 +26993,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Vanessa Automation Editor saknas.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27020,7 +27020,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte läsa data från filen &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27047,7 +27047,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Internetanslutning är inte tillgänglig.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27074,7 +27074,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte fastställa versionsnumret för Vanessa Automation från raden &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27101,7 +27101,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Röstcache har installerats.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27128,7 +27128,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Installation av röstcache misslyckades. Utför åtgärden manuellt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27155,7 +27155,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Skapa fil…</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27182,7 +27182,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Öppna fil…</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27209,7 +27209,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Öppna mapp…</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27236,7 +27236,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Öppna lektionslista</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27263,7 +27263,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Starta</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27290,7 +27290,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Senaste</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27317,7 +27317,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Utbildning</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27344,7 +27344,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Verktyg för att skapa scenariotester</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27371,7 +27371,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Välkommen!</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27398,7 +27398,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Vi har tester!</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27425,7 +27425,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Uttrycket &lt;%2&gt; förväntades bli sant inom &lt;%1&gt; sekunder.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27452,7 +27452,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Är du säker? Denna åtgärd kan inte ångras.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27479,7 +27479,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Återställ inställningar</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27506,7 +27506,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Välj inställningsfil</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27533,7 +27533,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Formuläret &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27560,7 +27560,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntade i &lt;%1&gt; sekunder på att formuläret &lt;%2&gt; skulle stängas.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27587,7 +27587,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inställningarna för att generera Allure-rapport har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27614,7 +27614,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte verifiera Allure-installationen.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27641,7 +27641,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Stoppa inspelning av åtgärder</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27668,7 +27668,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Utbildningsläget fungerar inte i Single-leveransen. Installera den fullständiga versionen av Vanessa Automation.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27695,7 +27695,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntade i &lt;%1&gt; sekunder på att bilden &lt;%2&gt; skulle visas.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27722,7 +27722,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>UI Automation-element hittades inte i gruppen &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27749,7 +27749,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>UI Automation-element hittades inte med Vanessa Automation-formulärelementnamn. PID &lt;%1&gt;, namn &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27776,7 +27776,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>UI Automation-element hittades inte. PID &lt;%1&gt;, rubrik/ID &lt;%2&gt;, typ &lt;%3&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27803,7 +27803,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fönsterrubriken för Vanessa Automation hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27830,7 +27830,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Algoritmen startar efter att scenariokörningen är klar.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27857,7 +27857,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Aktivt element hittades inte under markören.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27884,7 +27884,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Hittade aktivt element med namnet &lt;%1&gt;. Typ &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27911,7 +27911,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tips</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27938,7 +27938,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det rekommenderas att aktivera komponenten VanessaExt</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27965,7 +27965,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>För att få detaljerad hjälp om formulärelementet, håll markören över det och tryck alt+H. Klicka på hyperlänken för demonstration</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -27992,7 +27992,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>För att få detaljerad hjälp om formulärelementet, håll markören över det och tryck alt+H. Komponenten VanessaExt måste vara aktiverad</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28019,7 +28019,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Vanessa Automation-formulärelement hittades inte för &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28046,7 +28046,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Namn: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28073,7 +28073,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Rubrik: %2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28100,7 +28100,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Verktygstips: %3</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28127,7 +28127,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Utökat verktygstips: %4</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28154,7 +28154,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Hjälp om</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28181,7 +28181,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Formulärelementdata:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28208,7 +28208,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Interaktiva hjälplektioner för formulärelementet hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28235,7 +28235,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Interaktiva hjälplektioner där formulärelementet förekommer</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28262,7 +28262,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Synkrona anrop måste vara tillåtna. Det räcker att starta 1C-sessionen utanför Designern.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28289,7 +28289,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Håll markören över formulärelementet och tryck alt+H.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28316,7 +28316,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fil nr %1 av %2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28343,7 +28343,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inbäddat formulär nr %1 av %2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28370,7 +28370,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Hittade &lt;%1&gt; processer för att ta skärmbilder.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28397,7 +28397,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Hittade &lt;%1&gt; fönster för att ta skärmbilder.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28424,7 +28424,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Texten &lt;%1&gt; hittades inte i redigeraren.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28451,7 +28451,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Öppna vallistan &lt;%1&gt; innehåller dublettvärden: %2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28478,7 +28478,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inställningen &quot;ToolsCatalog&quot; är tom.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28505,7 +28505,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Verktygskatalogen &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28532,7 +28532,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte ladda ner lektioner. Utför åtgärden manuellt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28559,7 +28559,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Lektionerna har installerats.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28586,7 +28586,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det rekommenderas att spara inställningarna</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28613,7 +28613,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Cellen med texten &lt;%1&gt; hittades inte i kalkylbladsdokumentet &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28640,7 +28640,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Texten &lt;%1&gt; hittades inte i redigeraren. Aktuell text: %2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28667,7 +28667,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Testklienten startades på rätt port.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28694,7 +28694,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Namn på Onboarding-tillstånd har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28721,7 +28721,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Aktuellt Onboarding-fönster har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28748,7 +28748,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Aktivera komponenten &lt;VanessaExt&gt; för att kopiera information till urklipp. Vill du aktivera komponenten?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28775,7 +28775,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Beskrivning av parametrar som kan skickas i filen VAParams.json, som används vid start av Vanessa Automation från kommandoraden.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28802,7 +28802,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Globala variabler</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28829,7 +28829,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Speciella</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28856,7 +28856,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>En array av nyckel- och värdeobjekt. Denna array laddas in i globala variabler och blir tillgänglig vid körning av scenariot i objektet ContextSaved.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28883,7 +28883,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ingen procedur eller funktion hittades för att utföra steget: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28910,7 +28910,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Katalogen för Allure-rapport har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28937,7 +28937,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntade i &lt;%1&gt; sekunder på att fältet &lt;%2&gt; skulle försvinna. Men detta formulärelement hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28964,7 +28964,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntade i &lt;%1&gt; sekunder på att fältet &lt;%2&gt; skulle försvinna. Aktuell synlighet=%3</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28991,7 +28991,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Katalogen för temporära filer har inte angetts i inställningarna.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29018,7 +29018,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Processen &lt;%1&gt; förväntades existera.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29045,7 +29045,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Processen &lt;%1&gt; förväntades inte existera.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29072,7 +29072,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Skapa snabbt en temporär feature-fil…</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29099,7 +29099,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Redigerarinitialisering misslyckades: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29126,7 +29126,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inget element av typen &lt;%1&gt; hittades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29153,7 +29153,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fler än ett element av typen &lt;%1&gt; hittades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29180,7 +29180,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>För bekvämare och effektivare arbete rekommenderas det att aktivera den externa komponenten</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29207,7 +29207,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Aktivera?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29234,7 +29234,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Välkommen till assistenten för första start. Klicka här för detaljerad hjälp om Vanessa Automation.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29261,7 +29261,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Här finns de huvudsakliga verktygen i Vanessa Automation.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29288,7 +29288,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Här finns de huvudsakliga inställningarna för Vanessa Automation-redigeraren.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29315,7 +29315,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Efter första starten rekommenderas det att spara inställningarna.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29342,7 +29342,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>För att få detaljerad hjälp om ett formulärelement, håll markören över det och tryck alt+H.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29369,7 +29369,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Formulärelementet &lt;%1&gt; hittades inte</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29396,7 +29396,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Variabeltyp &lt;%1&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29423,7 +29423,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Status för det föregående scenariot &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29450,7 +29450,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>I fönstret &lt;%1&gt; kunde inte elementet &lt;%2&gt; klicka på hyperlänken &lt;%3&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29477,7 +29477,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Komponentversion</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29504,7 +29504,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Redigerarversion</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29531,7 +29531,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tillbaka</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29558,7 +29558,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Framåt</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29585,7 +29585,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Slutför</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29612,7 +29612,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>UI Automation-element hittades inte. PID &lt;%1&gt;, verktygstips &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29639,7 +29639,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>UI Automation-element hittades inte. PID &lt;%1&gt;, typ &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29666,7 +29666,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Hittade &lt;%1&gt; knappar med rubriken &lt;%2&gt;. Försök att söka efter formulärelementet med namn.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29693,7 +29693,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Möjlig mallsträng &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29720,7 +29720,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det förväntades att det aktuella formuläret har modifieringsmärkning.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29747,7 +29747,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det förväntades att det aktuella formuläret inte har modifieringsmärkning.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29774,7 +29774,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det förväntades att det aktuella formuläret har skrivskyddsmärkning.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29801,7 +29801,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det förväntades att det aktuella formuläret inte har skrivskyddsmärkning.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29828,7 +29828,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ange nytt kolumnnamn</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29855,7 +29855,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Startkommandot för webbläsaren har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29882,7 +29882,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Processen hittades inte med fönsterrubriken &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29909,7 +29909,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>&lt;%2&gt; filer &lt;%3&gt; hittades i katalogen &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29936,7 +29936,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fliken med filen &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29963,7 +29963,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ogiltigt värde i den första kolumnen i tabellen &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -29990,7 +29990,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Scenariokörningen har stoppats.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30017,7 +30017,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Knappen &lt;%1&gt; finns, men den förväntades inte finnas.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30044,7 +30044,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Webbläsarfliken med rubriken &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30071,7 +30071,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det förväntades att den aktuella raden i tabellen &lt;%1&gt; är expanderad.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30098,7 +30098,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det förväntades att den aktuella raden i tabellen &lt;%1&gt; är komprimerad.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30125,7 +30125,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kalkylbladsdokumentet &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30152,7 +30152,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det bör finnas 2 eller fler rader i ett kalkylbladsdokument.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30179,7 +30179,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntade &lt;%1&gt; sekunder på att formuläret &lt;%2&gt; skulle öppnas.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30206,7 +30206,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inga data hittades för fönstret &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30233,7 +30233,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Modalt dialogfönster med information om objektet hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30260,7 +30260,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Testklientprofilen &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30287,7 +30287,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Testklientprofilen &lt;%1&gt; hittades inte för stängning.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30314,7 +30314,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Testklientprofilen &lt;%1&gt; hittades inte trots att den borde vara aktiv.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30341,7 +30341,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Strängen &lt;%1&gt; innehåller ryska bokstäver.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30368,7 +30368,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>NameEn: %2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30395,7 +30395,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Titel: %3</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30422,7 +30422,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ledtråd: %4</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30449,7 +30449,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Utökad ledtråd: %5</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30476,7 +30476,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Steget &lt;%1&gt; misslyckades i Försök/Undantag-sektionen. Trädrad nr %2. Feature-filrad nr %3.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30503,7 +30503,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Utbildningsläge</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30530,7 +30530,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Variabelnamn</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30557,7 +30557,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Värde</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30584,7 +30584,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Knapp/kommando med rubriken &lt;%1&gt; hittades inte eller fler än en hittades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30611,7 +30611,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Sektionspanel &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30638,7 +30638,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Formulärelement med samma rubrik hittades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30665,7 +30665,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>TestClientName</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30692,7 +30692,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>TestClientSynonym</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30719,7 +30719,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>AdditionalParametersConnections</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30746,7 +30746,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte klicka på funktionspanelkommandot &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30773,7 +30773,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Webbläsarfliken &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30800,7 +30800,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Texten &lt;%1&gt; hittades inte i webbläsarfliken.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30827,7 +30827,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>minuter</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30854,7 +30854,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>(*.mxl)|*.mxl</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30881,7 +30881,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>%1 %2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30908,7 +30908,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>%1 = %2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30935,7 +30935,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>%1. %2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30962,7 +30962,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>%1.%2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -30989,7 +30989,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Failed: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31016,7 +31016,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ffmpeg - OK</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31043,7 +31043,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ImageMagic - OK</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31070,7 +31070,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>oscript - OK</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31097,7 +31097,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Pending: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31124,7 +31124,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Sleep:%1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31151,7 +31151,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>VLC 2.1.5 - OK</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31178,7 +31178,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Aktiverar fönstret med koordinater: %1%2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31205,7 +31205,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Webbläsare</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31232,7 +31232,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Strängen &lt;%2&gt; hittades i formulärelementet %1 värde. Aktuellt fältvärde är &lt;%3&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31259,7 +31259,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte klicka på knappen &lt;%3&gt; för elementet &lt;%2&gt; i fönstret &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31286,7 +31286,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kolumnen &lt;%2&gt; hittades inte i tabellen &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31313,7 +31313,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Dokumenttyp måste anges</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31340,7 +31340,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Metadatatyp måste anges</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31367,7 +31367,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Katalogtyp måste anges</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31394,7 +31394,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ScriptTimeline</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31421,7 +31421,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Välj inställningsfilen för scenariogeneratorn.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31448,7 +31448,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Anropar proceduren &quot;&quot;ViewValue&quot;&quot;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31475,7 +31475,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kör kod: %1.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31502,7 +31502,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Datum1 måste anges</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31529,7 +31529,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Datum2 måste anges</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31556,7 +31556,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>AddTestClientFormState: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31583,7 +31583,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>antingen ackumulationsregister eller bokföringsregister måste skickas</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31610,7 +31610,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Om tabelldelen inte har angetts ska filterstrukturen för tabelldelen inte heller anges</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31637,7 +31637,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Snippets laddades från cache</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31664,7 +31664,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ladda in features? &lt;%1&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31691,7 +31691,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Värdet för den globala variabeln &lt;%1&gt; ändrades från &lt;%2&gt; till &lt;%3&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31718,7 +31718,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Värdet för variabeln &lt;%1&gt; ändrades från &lt;%2&gt; till &lt;%3&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31745,7 +31745,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Bild: %1 skiljer sig</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31772,7 +31772,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Katalogen &lt;%1&gt; kommer att rensas. Fortsätta?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31799,7 +31799,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>HTMLInstructionsDirectory har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31826,7 +31826,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>MarkdownInstructionsDirectory har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31853,7 +31853,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ScreenshotsDirectory har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31880,7 +31880,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Knappen med rubriken &lt;%1&gt; och namnet &lt;%2&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31907,7 +31907,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ffmpeg-kommandot för att koda filen med feature-rubriken till mp4 kördes inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31934,7 +31934,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ffmpeg-kommandot för att koda den slutliga filen till mp4 kördes inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31961,7 +31961,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ffmpeg-kommandot för att sammanfoga filen med feature-rubriken med huvudvideon kördes inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -31988,7 +31988,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ffmpeg-kommandot för att sammanfoga den slutliga filen med huvudvideon kördes inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32015,7 +32015,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Mobil enhet hittades</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32042,7 +32042,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>%1 fel hittades:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32069,7 +32069,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Hittade ett fönster med feltexten: %1.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32096,7 +32096,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inställningar (*.json)|*.json</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32123,7 +32123,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>VA-inställningar (*.feature)|*.feature</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32150,7 +32150,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>VA-inställningar (*.json)|*.json</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32177,7 +32177,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Starta beteendeinspelning</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32204,7 +32204,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte hämta värdet från startkommandoraden: %1.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32231,7 +32231,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte hämta koordinaterna för fönstrets stängningsknapp &lt;%1&gt; i webbläsaren: %2.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32258,7 +32258,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte stänga fönstret för regionala inställningar</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32285,7 +32285,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inställningen &quot;ToolsDirectory&quot; har inte fyllts i.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32312,7 +32312,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>testdata har inte fyllts i. Kanske är datamallen tom.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32339,7 +32339,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Testklient att ansluta till hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32366,7 +32366,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ObjectManager hittades inte</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32393,7 +32393,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Strängöversättning hittades inte:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32420,7 +32420,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Filen hittades inte: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32447,7 +32447,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Elementet &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32474,7 +32474,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Formulärelementet &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32501,7 +32501,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Den aktiva kolumnen i tabellen &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32528,7 +32528,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Initialtillståndet hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32555,7 +32555,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Anslutna enheter hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32582,7 +32582,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Onboarding-tillståndet &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32609,7 +32609,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ansluten enhet upptäcktes inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32636,7 +32636,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>TestClient är inte ansluten.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32663,7 +32663,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte köra koden på testklientens sida.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32690,7 +32690,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte starta SikuliX-servern.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32717,7 +32717,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte starta mätningen. Anslutningsfel till felsökningsservern. Mätningen har stoppats</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32744,7 +32744,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fil för texten &lt;%1&gt; hittades inte i cachen.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32771,7 +32771,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte avgöra det aktiva TestClient-fönstret.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32798,7 +32798,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte avgöra det aktiva fältet i tabellen &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32825,7 +32825,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte dra och släppa från &lt;%1&gt; till &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32852,7 +32852,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte högerklicka på bilden &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32879,7 +32879,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte konvertera filen &quot;&quot;ogg&quot;&quot; till &quot;&quot;mp3&quot;&quot;. Kommando:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32906,7 +32906,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte spara strängen &lt;%1&gt; till variabeln &lt;%2&gt;. Felbeskrivning - &lt;%3&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32933,7 +32933,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte radera filen %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32960,7 +32960,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte fastställa tangentkoden &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -32987,7 +32987,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte fastställa musens rotationsriktning &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33014,7 +33014,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte läsa JSON-inställningsfilen.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33041,7 +33041,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte installera serviceverktyg. Utför åtgärden manuellt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33068,7 +33068,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ytterligare värdetyp har inte angetts</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33095,7 +33095,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Övergångsriktningen är felaktigt angiven i tabellen: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33122,7 +33122,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Värdet för mushjulets rotationsriktningsparameter är felaktigt: &lt;%1&gt;. Möjliga värden: Upp eller Ner.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33149,7 +33149,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Okänd parametertyp i GetFileSystemObjectsParametersAsyncronous: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33176,7 +33176,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Okänt arbetsalternativ - metoden &lt;AddObjectToTemplate&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33203,7 +33203,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Aktivera bildsökning med den externa komponenten VanessaExt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33230,7 +33230,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Allure-installation krävs.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33257,7 +33257,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ange parametrar i VAParams.json:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33284,7 +33284,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Hittade fler än 1 parameter L</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33311,7 +33311,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inställningar hittades i konfigurationsträdet. Rensa?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33338,7 +33338,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntade i &lt;%1&gt; sekunder på att fältet &lt;%2&gt; skulle bli otillgängligt. AktuellTillgänglighet= %3</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33365,7 +33365,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntade i &lt;%1&gt; sekunder på att scenarier skulle köras i Vanessa Automation-testfönstret.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33392,7 +33392,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntade i &lt;%1&gt; sekunder på att fliken med ID &lt;%2&gt; skulle ändras och försvinna.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33419,7 +33419,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade samma antal bilder: &lt;%1&gt;, men fick &lt;%2&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33446,7 +33446,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntade i &lt;%2&gt; sekunder på att det aktuella fältet i tabellen &lt;%1&gt; inte ska vara ifyllt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33473,7 +33473,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade att bilderna skulle vara lika, men de skiljer sig</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33500,7 +33500,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade att det aktiva fönstret skulle vara ett fönster från listan &lt;%1&gt;, men hittade &lt;%2&gt;. Timeout för fönstersökning: %3</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33527,7 +33527,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade elementet &lt;%1&gt; i sektionspanelen, men elementet &lt;%2&gt; hittades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33554,7 +33554,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade att sektionspanelen inte skulle innehålla följande element: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33581,7 +33581,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Frasuppläsning</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33608,7 +33608,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Vanessa Automation Editor saknas</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33635,7 +33635,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fel vid förberedelse av stegkörning: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33662,7 +33662,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>WebSocket-anslutningsfel.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33689,7 +33689,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Anslutningsfel till felsökningsservern. Mätningarna har stoppats.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33716,7 +33716,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fel vid skapande av mp3 efter feature-katalog.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33743,7 +33743,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fel. Troligtvis hittades inte adb-programmet. Installera det eller ange sökvägen.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33770,7 +33770,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fel. Okänt värde för parametern CurrentOperationValue = %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33797,7 +33797,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Variabeln &lt;%1&gt; har redan deklarerats. Överskrivning är inaktiverad.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33824,7 +33824,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Undermeny med rubriken &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33851,7 +33851,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Undermenyn med namnet &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33878,7 +33878,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>FeatureFullPath</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33905,7 +33905,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ett fel uppstod vid körning av koden: &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33932,7 +33932,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Arbete med nycklar vid skapande av användare stöds inte ännu</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33959,7 +33959,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Serviceverktyg</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -33986,7 +33986,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Serviceverktyg är installerade.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34013,7 +34013,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ladda ner och installera serviceverktyg för SikuliX-steg?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34040,7 +34040,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Spara inställningar</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34067,7 +34067,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Scenarierna har laddats in i scenariostartträdet</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34094,7 +34094,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tabellen &lt;%1&gt; innehöll inte rader från den överförda tabellen inom &lt;%2&gt; sekunder. %3</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34121,7 +34121,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tabell &lt;%1&gt;. Rad nr &lt;%2&gt;. Kolumn &lt;%3&gt;. Kunde inte hämta värdet från referensen.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34148,7 +34148,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>En tabell i minnet med namnet &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34175,7 +34175,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Scenariotexten överensstämmer inte med referensscenariots text.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34202,7 +34202,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tekniska data:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34229,7 +34229,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Typ</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34256,7 +34256,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Metadatatyp måste anges</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34283,7 +34283,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>PlatformType</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34310,7 +34310,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tabellen &lt;%1&gt; förväntades ha kolumnen &lt;%2&gt; aktiv, inte &lt;%3&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34337,7 +34337,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Föråldrat och stöds inte längre: https://github.com/xDrivenDevelopment/xUnitFor1C/issues/332</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34364,7 +34364,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Filen &lt;%1&gt; är inte lika med filen &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34391,7 +34391,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>EPF-filen skapades inte. Kunde inte skapa en temporär databaskatalog.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34418,7 +34418,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Filen HTMLInstructionUploadCatalog: %1 finns inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34445,7 +34445,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Filen MarkdownInstructionUploadCatalog: %1 finns inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34472,7 +34472,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Mallfil hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34499,7 +34499,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>VA-inställningsfil</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34526,7 +34526,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Uppdatera</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34553,7 +34553,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Uppdatera värdet i scenariot till den aktuella tabellraden hos testklienten &lt;%1&gt;?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34580,7 +34580,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Skapa snabbt en temporär feature-fil...</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34607,7 +34607,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>I det engelska gränssnittet bör formulärelement inte innehålla ryska bokstäver.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34634,7 +34634,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Gherkin-tabell hittades inte i scenariotexten.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34661,7 +34661,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kolumnen &lt;%1&gt; hittades inte i det aktuella tabellvärdet.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34688,7 +34688,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Denna lektion har ändrats sedan versionen &lt;%1&gt;. För att lektionen ska fungera måste talsyntes vara aktiverad.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34715,7 +34715,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Intervall %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34742,7 +34742,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det finns ingen steguppdatering för denna typ av fel.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34769,7 +34769,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ersätter värdet &lt;%1&gt; i steget med &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34796,7 +34796,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>&lt;%2&gt; rader mottogs från tabellen &lt;%1&gt; men en rad förväntades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34823,7 +34823,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Antalet tabellrader har ändrats. Vid ersättning kommer *-tecknen att tas bort. Fortsätta?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34850,7 +34850,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tabellens storlek har ändrats. Vid ersättning kommer *-tecknen att tas bort. Fortsätta?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34877,7 +34877,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Knappnamn:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34904,7 +34904,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Namn:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34931,7 +34931,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Hittade problem:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34958,7 +34958,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte uppdatera stegparametrar.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -34985,7 +34985,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Du kan inte uppdatera värdet, eftersom det inte finns några rader i tabellen i scenariot.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35012,7 +35012,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Du kan inte uppdatera värdet, eftersom Gherkin-tabellen ska ha 2 rader.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35039,7 +35039,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntar på att processen med pid &lt;%1&gt; till &lt;%2&gt; ska stängas.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35066,7 +35066,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Öppna feature-fil...</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35093,7 +35093,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tvångsavslutning av testklientprocessen med pid &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35120,7 +35120,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Processen med pid &lt;%1&gt; finns fortfarande.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35147,7 +35147,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Processen med pid &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35174,7 +35174,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Skapa feature-fil...</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35201,7 +35201,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tempo %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35228,7 +35228,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Filen &lt;%1&gt; kommer att skrivas över. Är du säker?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35255,7 +35255,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Filen &lt;%1&gt; kommer att skrivas över. Även värden som innehåller *-tecken kommer att ersättas. Är du säker?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35282,7 +35282,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Filen &lt;%1&gt; har skrivits över.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35309,7 +35309,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Filen &lt;%1&gt; skrevs inte över.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35336,7 +35336,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ett ogiltigt värde &lt;%1&gt; skickades i den tredje kolumnen.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35363,7 +35363,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kör scenariot &lt;%1&gt; igen. Försök nr %2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35390,7 +35390,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>För formulärelementet &lt;%1&gt; är det aktuella värdet &lt;%2&gt; och &lt;%3&gt; förväntades</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35417,7 +35417,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Om sessionen startades från Designern rekommenderas det att starta testhanterarens session utanför Designern. Då fungerar synkrona anrop oavsett konfigurationsinställningar.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35444,7 +35444,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Antalet tabellrader har ändrats. Vid ersättning kommer *- och $-tecknen att tas bort. Fortsätta?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35471,7 +35471,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tabellens storlek har ändrats. Vid ersättning kommer *- och $-tecknen att tas bort. Fortsätta?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35498,7 +35498,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Namn</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35525,7 +35525,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Scenarionamn:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35552,7 +35552,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>HowToSearch</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35579,7 +35579,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Hittade instanser av serveranrop i händelsehanterare:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35606,7 +35606,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inställningarna förbjuder anslutning av mer än en testklient samtidigt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35633,7 +35633,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte aktivera fönstret med PID &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35660,7 +35660,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte hitta formulärelementet &lt;%1&gt; med hjälp av UI Automation.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35687,7 +35687,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte radera filen &lt;%1&gt;. Troligtvis används filen av ett annat program. Filnamnet har ändrats.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35714,7 +35714,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Vanessa Automation-inställningsvärdet har inte angetts: &lt;ToolsDirectory&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35741,7 +35741,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förbud mot synkrona anrop upptäcktes.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35768,7 +35768,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kalkylbladsdokumentet &lt;%1&gt; förväntades vara fyllt med data.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35795,7 +35795,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fel vid läsning av json.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35822,7 +35822,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Testklienten är ansluten. PID &lt;%1&gt;. Port &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35849,7 +35849,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Se detaljer här: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35876,7 +35876,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ByTitle</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35903,7 +35903,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>ByName</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35930,7 +35930,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det rekommenderas att byta till ett läge där synkrona anrop är tillåtna, eftersom arbetet med filsystemet går snabbare i det läget.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35957,7 +35957,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Flaggan &lt;Stoppa vid fel&gt; är satt. Följande scenarier/steg har avbrutits.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -35984,7 +35984,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Filen &lt;%1&gt; kommer att skrivas över. Även värden som innehåller *- och $-tecken kommer att ersättas. Är du säker?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36011,7 +36011,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>För att validera serveranrop i händelsehanterare måste du tillåta synkrona anrop.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36038,7 +36038,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Filen &lt;%1&gt; hittades inte i projektkatalogen eller i feature-katalogen.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36065,7 +36065,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det finns inga filer i cachen för tillägget.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36092,7 +36092,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Generering av tester slutförd:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36119,7 +36119,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Katalog har inte angetts</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36146,7 +36146,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Mp3-cache för uppdatering måste anges i fältet FeatureKatalog.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36173,7 +36173,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Startgenerering av tester:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36200,7 +36200,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fullständig sökväg till cachefilen hittades inte: &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36227,7 +36227,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Katalog för utdatafiler har inte angetts! Röktester kommer inte att genereras.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36254,7 +36254,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det är nödvändigt att aktivera den externa komponenten VanessaExt och bildsökning med komponenten.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36281,7 +36281,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Väntade &lt;%1&gt; sekunder på att filen %2 skulle visas</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36308,7 +36308,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fältet &lt;%1&gt; i kalkylbladsdokumentet hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36335,7 +36335,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inga scenarier hittades att köra. Om starttaggar angavs, försök att ladda om .feature-filen</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36362,7 +36362,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kalkylbladsdokumentet &lt;%1&gt; hade visningstillståndet &lt;%3&gt; istället för det förväntade &lt;%2&gt; under &lt;%4&gt; sekunder.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36389,7 +36389,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kalkylbladsdokumentet &lt;%1&gt; hade visningstillståndet &lt;%3&gt; istället för det förväntade &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36416,7 +36416,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Steget fungerar från och med plattformsversionen &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36443,7 +36443,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Dokumentet &lt;%1&gt; bokfördes utan fel.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36470,7 +36470,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Dokumentet &lt;%1&gt; bokfördes utan fel.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36497,7 +36497,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte hämta objektets tillstånd från navigeringslänken &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36524,7 +36524,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte bokföra dokumentet &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36551,7 +36551,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte avbokföra dokumentet &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36578,7 +36578,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte avbokföra dokument från det aktuella scenariot.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36605,7 +36605,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Vid bokföring av dokumentet &lt;%1&gt; mottogs feltexten &lt;%2&gt;. Feltexten &lt;%3&gt; förväntades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36632,7 +36632,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Vid avbokföring av dokumentet &lt;%1&gt; mottogs feltexten &lt;%2&gt;. Feltexten &lt;%3&gt; förväntades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36659,7 +36659,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ett fel uppstod vid generering av rapporten &lt;%1&gt; &lt;%2&gt;:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36686,7 +36686,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inställningarna har ändrats. Spara ändrade inställningar?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36713,7 +36713,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Välj csv-fil</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36740,7 +36740,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ladda inställningar från vald fil?</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36767,7 +36767,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Scenarioinställningarna laddas. Vänta...</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36794,7 +36794,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Scenariokonfigurationsfilen hittades inte!</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36821,7 +36821,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Utdatakatalog har inte angetts! Röktester kommer inte att genereras.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36848,7 +36848,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>För många parametrar skickades till steget.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36875,7 +36875,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Du angav ett felaktigt gränsintervall. NedreGräns är större än ÖvreGräns.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36902,7 +36902,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Generering av röktester slutförd (%1 sek.).</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36929,7 +36929,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Denna funktion fungerar bara i plattform 8.3.25 och högre.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36956,7 +36956,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kan inte fastställa värdet för tabellkolumnen &lt;%1&gt;. Tabellen kommer inte att ordnas efter kolumner som de är placerade i testklientens tabell.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -36983,7 +36983,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kan inte fastställa ordningen för kolumnen &lt;%1&gt;. Tabellen kommer inte att ordnas efter kolumner som de är placerade i testklientens tabell.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37010,7 +37010,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Startar generering av röktester.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37037,7 +37037,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fellogg: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37064,7 +37064,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Inställningen &lt;%1&gt; är bara tillgänglig i Windows.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37091,7 +37091,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kan inte hämta presentationen av den öppnade vallistan kopplad till formuläret.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37118,7 +37118,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kan inte hämta vallistans presentation.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37145,7 +37145,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Taggen &lt;%1&gt; för att hämta värdet hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37172,7 +37172,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kan inte rensa kalkylbladsdokumentet &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37199,7 +37199,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Plattformsversionerna för testhanteraren och testklienten stämmer inte överens. Testklienten startades på plattformsversion &lt;%1&gt; och testhanteraren på &lt;%2&gt;. Anslutningen kan inte upprättas med olika plattformsversioner.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37226,7 +37226,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kan inte radera tillägget med namnet &lt;%1&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37253,7 +37253,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Katalog för utdatafiler har inte angetts!</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37280,7 +37280,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Okänd åtgärdstyp &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37307,7 +37307,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kan inte göra ersättningen, eftersom flera &lt;%1&gt; formulärelement hittades med strängen &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37334,7 +37334,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ett försök upptäcktes att starta scenariokörning från scenario nr &lt;%1&gt;, men bara &lt;%2&gt; scenarier hittades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37361,7 +37361,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Flera kolumner med samma rubrik &lt;%1&gt; hittades. Tabellen kommer inte att ordnas efter kolumner som de är placerade i testklientens tabell.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37388,7 +37388,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>En avvikelse hittades mellan testklientens tabell och mallen. Strängar hittades inte: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37415,7 +37415,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade att fältet &lt;%1&gt; inte skulle vara lika med variabeln &lt;%2&gt;. Variabelns värde är &lt;%3&gt;. Fältvärde &lt;%4&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37442,7 +37442,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade att fältet med rubriken &lt;%1&gt; skulle vara tomt, men det är inte tomt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37469,7 +37469,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade att kalkylbladsdokumentet &lt;%1&gt; skulle ha texten i cellen med adressen &lt;%2&gt; inom områdets gränser.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37496,7 +37496,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade att kalkylbladsdokumentet &lt;%1&gt; skulle ha ett område (cell) med adressen &lt;%2&gt; inkluderat i det sammanslagna området.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37523,7 +37523,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade att kalkylbladsdokumentet &lt;%1&gt; område (cell) med adressen &lt;%2&gt; inte skulle vara inkluderat i det sammanslagna området.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37550,7 +37550,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade under &lt;%1&gt; sekunder att det aktiva fönstret skulle vara fönstret med rubriken &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37577,7 +37577,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade att det aktuella formuläret skulle vara redigerbart.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37604,7 +37604,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade att det aktuella formuläret inte skulle vara redigerbart.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37631,7 +37631,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Den öppna vallistan kopplad till formuläret innehåller inte de förväntade värdena: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37658,7 +37658,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Den öppna vallistan kopplad till formuläret innehåller dublettvärden: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37685,7 +37685,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Den öppna vallistan kopplad till formuläret innehåller oväntade värden: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37712,7 +37712,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Den öppna vallistan kopplad till formuläret är inte lika med mallen. Skillnader: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37739,7 +37739,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Filsökningsfel: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37766,7 +37766,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tillägget med namnet &lt;%1&gt; är redan installerat.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37793,7 +37793,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Strängen &lt;%1&gt; är felaktigt formaterad. Feature-sträng &lt;%2&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37820,7 +37820,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fältet &lt;%1&gt; rubrik förväntades vara &lt;%2&gt;, och det aktuella värdet är &lt;%3&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37847,7 +37847,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Vallistan kopplad till formuläret förväntades ha %1 värden, och %2 värden mottogs.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37874,7 +37874,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Formulärelementet &lt;%1&gt; har den aktuella redigeringstexten &lt;%2&gt;, och &lt;%3&gt; förväntades under &lt;%4&gt; sekunder.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37901,7 +37901,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Steget misslyckades i Försök/Undantag-sektionen: &lt;%1&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37928,7 +37928,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>2. Märklig parameter i HTML-instruktionsloggen: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37955,7 +37955,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Auktoriseringen till talsyntestjänsten lyckades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -37982,7 +37982,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Variabeln Str förväntades ha typen &lt;String&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38009,7 +38009,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>En snabbkontroll av bakgrundsjobb utfördes.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38036,7 +38036,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>TestManagerData.PIDTestManager = %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38063,7 +38063,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Flera matchningar hittades för kolumnen &lt;%1&gt;; ersättning är inte möjlig: &lt;%2&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38090,7 +38090,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>För kolumnen &lt;%1&gt; hittades matchningen &lt;%2&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38117,7 +38117,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det hittades &lt;%2&gt; matchande rader för profilen &lt;%1&gt; i testklienttabellen, men det borde bara finnas en.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38144,7 +38144,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Det finns filer utan taggarna @uf-part1 och @uf-part2. En av dessa taggar krävs. Lista över problematiska filer:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38171,7 +38171,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kontrollen slutförd. Inga aktiva bakgrundsjobb hittades.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38198,7 +38198,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Systemdialogen &lt;%1&gt; stängdes. Scenariokörningen fortsatte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38225,7 +38225,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Stänger kontrollen av bakgrundsjobb.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38252,7 +38252,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Stänger tilläggets fönster för bakgrundsjobkontroll</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38279,7 +38279,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fönstret &lt;%1&gt; stängdes</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38306,7 +38306,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>VAExtension-fönstret &lt;%1&gt; stängdes.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38333,7 +38333,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Byggstatusfil skriven: %1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38360,7 +38360,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kör scenariot igen</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38387,7 +38387,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Arrayen i minnet med namnet &lt;%1&gt; hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38414,7 +38414,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Metoden RemoveLayoutIndents tar en parameter av typen SpreadsheetDocument, men den skickade parametern var av typen &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38441,7 +38441,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>En ny 1C-process hittades: &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38468,7 +38468,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte hämta en lista över testklientens fönster.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38495,7 +38495,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Filen dit utdata från kommandot &lt;%1&gt; dirigerades hittades inte.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38522,7 +38522,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte inaktivera möjligheten att radera text i fält i det aktuella fönstret.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38549,7 +38549,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte exportera scenariostatus eftersom en katalog skickades, inte en fil.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38576,7 +38576,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte utföra ett steg i en sträng.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38603,7 +38603,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte beräkna tid för strängen &lt;%1&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38630,7 +38630,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte stänga fönstret &lt;%1&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38657,7 +38657,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte hämta versionen av delsystemet &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38684,7 +38684,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte beräkna den aktuella versionen av testklientens gränssnitt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38711,7 +38711,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte läsa kommandoradsparametrar.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38738,7 +38738,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kunde inte hämta meddelanden för fönstret &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38765,7 +38765,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Lösenordet för auktorisering i 1C:s talsyntestjänst har inte angetts.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38792,7 +38792,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Okänd operation - metoden &lt;AddObjectToUpload&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38819,7 +38819,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Försöksnummer:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38846,7 +38846,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>AbnormalTestClientCompletionDetected</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38873,7 +38873,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Vi förväntade att den andra parametern skulle vara en parameterstruktur för metoden &lt;CreateDataByLayoutDocument&gt;, men vi fick ett annat objekt av typen &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38900,7 +38900,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fältet &lt;%2&gt; i tabellen &lt;%1&gt; förväntades vara ifyllt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38927,7 +38927,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fältet &lt;%2&gt; i tabellen &lt;%1&gt; förväntades vara tomt.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38954,7 +38954,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Testklienten förväntades köras i en klient-serverdatabas. Anslutningssträng: &lt;%1&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -38981,7 +38981,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Testklienten förväntades köras i en fildatabas. Anslutningssträng: &lt;%1&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39008,7 +39008,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Den aktuella tiden &lt;%1&gt; förväntades vara mellan &lt;%2&gt; och &lt;%3&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39035,7 +39035,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Elementet med rubriken &lt;%1&gt; förväntades försvinna inom &lt;%2&gt; sekunder.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39062,7 +39062,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Elementet med namnet &lt;%1&gt; förväntades försvinna inom &lt;%2&gt; sekunder.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39089,7 +39089,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>En modal dialog är öppen, så navigeringslänken &lt;%1&gt; kan inte öppnas</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39116,7 +39116,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Öppnar en process för att kontrollera slutförande av bakgrundsjobb</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39143,7 +39143,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tidsparametern &lt;%1&gt; måste skickas i formatet &quot;23:30:00&quot;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39170,7 +39170,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Fullständig kommandotext &lt;%1&gt;.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39197,7 +39197,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Mottog ett kalkylbladsdokument från binärdata &lt;%1&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39224,7 +39224,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Mottog binär layoutdata från filen &lt;%1&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39251,7 +39251,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Försöker hämta kalkylbladsdokumentet igen eftersom Odefinierad mottogs.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39278,7 +39278,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Representation av mallsträngen:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39305,7 +39305,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kontrollerar fönster med rubriken &lt;%1&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39332,7 +39332,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Rad nr %1 hittades inte i kalkylbladsdokumentet</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39359,7 +39359,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>En struktur som innehåller nyckel- och värdepar. Denna struktur laddas in i globala variabler, och dessa variabler blir tillgängliga vid körning av scenariot i objektet ContextPersisted.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39386,7 +39386,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Tabellen &lt;%1&gt; är tom</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39413,7 +39413,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Kalkylbladsdokumentet har sparats till en temporär fil &lt;%1&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39440,7 +39440,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Text i modalt fönster:</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39467,7 +39467,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Ett tomt lösenord har angetts för auktorisering i 1C:s talsyntestjänst</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39494,7 +39494,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Feature-språket matchar standardspråkinställningen &lt;%1&gt;. Översättning är inte möjlig.</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -39521,7 +39521,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Translation not found</v8:content>
+							<v8:content>Förväntade att cellen &lt;%1&gt; skulle vara ifylld. Fönster &lt;%2&gt;</v8:content>
 						</v8:item>
 					</tl>
 				</c>
