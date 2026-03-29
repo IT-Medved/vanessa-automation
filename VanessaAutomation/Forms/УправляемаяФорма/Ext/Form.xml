@@ -21813,11 +21813,13 @@ Om fältet är tomt skrivs loggen inte ut till en textfil.</v8:content>
 																								<Title formatted="false">
 																									<v8:item>
 																										<v8:lang>en</v8:lang>
-																										<v8:content>If this option is enabled, then in the parameters of the steps in which the variables were used, the variable names will be replaced with their values.</v8:content>
+																										<v8:content>If this option is enabled, then in the parameters of the steps in which the variables were used, the variable names will be replaced with their values.
+This option should be used with caution, as it requires additional resources to analyze whether variables need to be substituted into a step.</v8:content>
 																									</v8:item>
 																									<v8:item>
 																										<v8:lang>ru</v8:lang>
-																										<v8:content>Если опция включена, то в параметрах шагов, в которых использовались переменные, имена переменных будут заменены на их значения.</v8:content>
+																										<v8:content>Если опция включена, то в параметрах шагов, в которых использовались переменные, имена переменных будут заменены на их значения.
+Опцию нужно использовать осторожно, т.к. она требует дополнительных ресурсов для анализа, нужно ли подставлять переменные в шаг.</v8:content>
 																									</v8:item>
 																									<v8:item>
 																										<v8:lang>sv</v8:lang>
