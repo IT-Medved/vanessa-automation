@@ -15333,6 +15333,7 @@ Standard: ffmpeg</v8:content>
 			<Form>ОбщегоНазначенияVA</Form>
 			<Form>ВводСтрокиНавигационныхСсылок</Form>
 			<Form>ГенераторДымовыхТестов</Form>
+			<Form>MCPVA</Form>
 			<Template>ОтчетТестирования</Template>
 			<Template>ШаблонПеревода</Template>
 			<Template>МакетСлужебныйКеш</Template>
