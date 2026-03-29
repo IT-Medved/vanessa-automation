@@ -42467,7 +42467,7 @@ Klicka på hyperlänken för mer detaljer.</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Shortcut>Alt+F2</Shortcut>
-			<Action>ЗагрузитьФичиИзКаталога</Action>
+			<Action>ЗагрузитьФичиИзКаталогаКоманда</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>
 		</Command>
 		<Command name="ЗагрузитьОднуФичу" id="4">
@@ -42500,7 +42500,7 @@ Klicka på hyperlänken för mer detaljer.</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Shortcut>Ctrl+Shift+F2</Shortcut>
-			<Action>ЗагрузитьОднуФичу</Action>
+			<Action>ЗагрузитьОднуФичуКоманда</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>
 		</Command>
 		<Command name="СоздатьШаблоныОбработок" id="5">
