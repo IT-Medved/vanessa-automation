@@ -29,6 +29,10 @@ Var Контекст Export;
 &AtClient
 Var КонтекстСохраняемый Export;
 
+// Flag to trigger automatic feature generation on form open
+&AtClient
+Var AutoGenerateFeature Export;
+
 &AtClient
 Function ПолучитьСписокТестов(КонтекстФреймворкаBDD) Export
 	LocalizedStringFromServer = LocalizedStringsServer();
@@ -1175,6 +1179,14 @@ Procedure IRefillConstantByValueAtServer(ConstantName, ConstantValue)
 	Constants[ConstantName].Set(FilledValue[ConstantName]);
 EndProcedure
 
+// Executes feature generation and switches to the Feature tab
+// This exported procedure is used to programmatically trigger feature generation
+// from external forms (e.g., Smoke Test Generator) after opening this form.
+&AtClient
+Procedure ExecuteFeatureGeneration() Export
+	GenerateFeature(Undefined);
+EndProcedure
+
 // Делает отключение модуля
 &НаКлиенте
 Функция ОтключениеМодуля() Экспорт
@@ -1214,7 +1226,24 @@ Procedure OnOpen(Cancel)
 	LocalizedStringFromServer = LocalizedStringsServer();
 	ChangeReplaceRefByAttribute();
 	
+	// Check if auto-generation of feature is requested
+	If AutoGenerateFeature = True Then
+		ExecuteFeatureGeneration();
+		AutoGenerateFeature = False; // Reset flag after use
+	EndIf;
+	
 EndProcedure
+
+&AtClient
+Процедура ПриПовторномОткрытии()
+	
+	// Check if auto-generation of feature is requested
+	If AutoGenerateFeature = True Then
+		ExecuteFeatureGeneration();
+		AutoGenerateFeature = False; // Reset flag after use
+	EndIf;
+
+КонецПроцедуры
 
 &AtClient
 Procedure MetadataListUseOnChange(Item)	
