@@ -2775,6 +2775,10 @@ Document3.ListForm</v8:content>
 			</Title>
 			<ToolTip>
 				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сформировать сценарии по отсутствующим тестам</v8:content>
+				</v8:item>
+				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Generate scenarios from metadata</v8:content>
 				</v8:item>
