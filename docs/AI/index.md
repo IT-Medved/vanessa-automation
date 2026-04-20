@@ -1,7 +1,7 @@
 # MCP в Vanessa Automation
 
 ## Как начать использовать MCP Vanessa Automation
-* Нужно установить в базу менеджера тестирования расширение из проекта [web-transport-addin](https://github.com/alkoleft/web-transport-addin/releases)
+* Нужно установить в базу менеджера тестирования расширение из проекта [onec-client-mcp-devkit](https://github.com/1c-neurofish/onec-client-mcp-devkit/releases)
 * При запуске Vanessa Automation определяет, что в базе установлено это расширение и регистрирует в нём свои инструменты
 * В форме плагина **web-transport-addin** нужно нажать на кнопку "Запустить"
 * Лучше сначала запустить MCP сервер, а затем запускать ИИ среду рарзработки
