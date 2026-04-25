@@ -19651,17 +19651,15 @@ Det rekommenderas att aktivera denna kryssruta.</v8:content>
 																				<Title formatted="false">
 																					<v8:item>
 																						<v8:lang>ru</v8:lang>
-																						<v8:content>Если флаг установлен, то при создании переменных во время выполнения шагов будет запрещено перезаписывать уже ранее объявленные переменные.</v8:content>
+																						<v8:content>Если флаг установлен, то при попытке записи значения в ранее объявленную переменную во время выполнения шагов будет вызвано исключение, а не произойдёт молчаливая перезапись. Проверка применяется к обеим областям: обычному контексту (например, $Имя$) и сохраняемому контексту ($$Имя$$).</v8:content>
 																					</v8:item>
 																					<v8:item>
 																						<v8:lang>en</v8:lang>
-																						<v8:content>If the checkbox is on, pending steps will set assembly status to failed on the execution on CI server.
-It is recommended to set this checkbox on.</v8:content>
+																						<v8:content>If the checkbox is on, an attempt to overwrite a previously declared variable during step execution will raise an exception instead of silently replacing the value. Applies to both Context ($Name$) and Persistent Context ($$Name$$) variables.</v8:content>
 																					</v8:item>
 																					<v8:item>
 																						<v8:lang>sv</v8:lang>
-																						<v8:content>Om kryssrutan är aktiverad sätter väntande steg byggstatusen till misslyckad vid körning på CI-server.
-Det rekommenderas att aktivera denna kryssruta.</v8:content>
+																						<v8:content>Om kryssrutan är aktiverad kommer ett försök att skriva över en tidigare deklarerad variabel under körning av steg att ge upphov till ett undantag istället för att tyst ersätta värdet. Gäller både vanlig kontext ($Namn$) och bestående kontext ($$Namn$$).</v8:content>
 																					</v8:item>
 																				</Title>
 																			</ExtendedTooltip>
