@@ -15355,6 +15355,8 @@ Standard: ffmpeg</v8:content>
 			<Template>CSS_Skrinkast</Template>
 			<Template>КартинкаПоказатьПодробности</Template>
 			<Template>MarkdownViewer</Template>
+			<Template>БазаЗнанийДляMCP</Template>
+			<Template>ЧастоИспользуемыеШаги</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
