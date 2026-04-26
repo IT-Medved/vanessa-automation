@@ -1,15 +1,16 @@
 site_name: Vanessa Automation
 theme:
   name: material
-  language: 'ru'
-  logo: 'assets/images/logo.png'
-  favicon: 'assets/images/logo.png'
+  language: ru
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
   palette:
-    primary: 'white'
-    accent: 'red'
+    scheme: default
+    primary: white
+    accent: red
   features:
-    - tabs
-    - instant
+    - navigation.tabs
+    - navigation.instant
 plugins:
   - search:
       separator: '[\s\-\.]+'
