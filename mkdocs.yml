@@ -25,7 +25,9 @@ extra:
       link: https://t.me/VanessaAutomation
 markdown_extensions:
   - admonition
-  - codehilite
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
   - toc:
       permalink: true
 site_url: 'https://pr-mex.github.io/vanessa-automation'
