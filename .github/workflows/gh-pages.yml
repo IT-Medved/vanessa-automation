@@ -28,7 +28,7 @@ jobs:
         pip install --upgrade pip
         pip install -r requirements-docs.txt
     
-    - name: Dowload latest GitHub Pages
+    - name: Download latest GitHub Pages
       run: |
         wget https://github.com/${{ github.repository }}/archive/gh-pages.zip || true
         unzip gh-pages.zip || true
