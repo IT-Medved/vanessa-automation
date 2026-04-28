@@ -4,19 +4,6 @@
 #parent ua:
 @UA18_формировать_отчёт_Allure
 
-@IgnoreOn82Builds
-@IgnoreOnOFBuilds
-@IgnoreOnWeb
-
-@IgnoreOnUFSovm82Builds
-@IgnoreOn8312
-@IgnoreOn8313
-@IgnoreOn8314
-@IgnoreOn8315
-@IgnoreOn8316
-@IgnoreOn8317
-@IgnoreOn8318
-
 
 Переменные:
 	*__Таб_ВыделенияГруппой_01
@@ -25,6 +12,17 @@
 	| '_2'    | 'Реквизит1'    | ''     |
 
 @uf-part2
+@IgnoreOn82Builds
+@IgnoreOnOFBuilds
+@IgnoreOnWeb
+@IgnoreOnUFSovm82Builds
+@IgnoreOn8312
+@IgnoreOn8313
+@IgnoreOn8314
+@IgnoreOn8315
+@IgnoreOn8316
+@IgnoreOn8317
+@IgnoreOn8318
 Функционал: Проверка поиска основных элементов формы с помощью механизма UI Automation
 
 Как разработчик
