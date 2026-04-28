@@ -4,7 +4,6 @@
 #parent ua:
 @UA18_формировать_отчёт_Allure
 
-@uf-part2
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb
@@ -25,6 +24,7 @@
 	| '_1'    | 'Наименование' | 'Text' |
 	| '_2'    | 'Реквизит1'    | ''     |
 
+@uf-part2
 Функционал: Проверка поиска основных элементов формы с помощью механизма UI Automation
 
 Как разработчик

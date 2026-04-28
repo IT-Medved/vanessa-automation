@@ -9,7 +9,7 @@
 @IgnoreOnOFBuilds
 @IgnoreOnWeb
 
-
+@uf-part2
 Функционал: Выполнение сценариев с закрытой формой
 
 
