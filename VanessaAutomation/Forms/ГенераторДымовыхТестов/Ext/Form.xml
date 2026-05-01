@@ -1339,9 +1339,6 @@ Document3.ListForm</v8:content>
 				</v8:StringQualifiers>
 			</Type>
 			<SavedData>true</SavedData>
-			<Save>
-				<Field>КаталогФайловИсключений</Field>
-			</Save>
 		</Attribute>
 		<Attribute name="КаталогВыходныхФайлов" id="3">
 			<Title>
