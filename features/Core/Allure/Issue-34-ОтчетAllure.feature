@@ -12,7 +12,9 @@
 # т.к. на 8.3.9 не работает нажатие на кнопку Контекстного Меню
 @IgnoreOn839
 
-
+# Проверка формирования отчёта Allure 2 (JSON-формат). Issue: #34
+# https://github.com/Pr-Mex/vanessa-automation/issues/34
+# Фикстуры-сценарии для запуска через TestClient: features/Support/Templates/Allure/
 
 Функционал: Проверка формирования отчета Allure
 
