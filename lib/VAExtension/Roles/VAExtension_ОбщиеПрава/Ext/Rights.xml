@@ -109,6 +109,17 @@
 		</right>
 	</object>
 	<object>
+		<name>DataProcessor.VAExtension_ДанныеРеквизитовОбъекта</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>DataProcessor.VAExtension_ОткрытьВсеФункции</name>
 		<right>
 			<name>Use</name>
@@ -132,6 +143,17 @@
 	</object>
 	<object>
 		<name>DataProcessor.VAExtension_ВнешниеСобытия</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>DataProcessor.VAExtension_ПолучениеДанныхИзБазы</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>
