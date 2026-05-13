@@ -5,7 +5,7 @@
 #parent ua:
 @UA20_формировать_прочие_отчеты
 
-@uf-part1
+@uf-part2
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnUFSovm82Builds

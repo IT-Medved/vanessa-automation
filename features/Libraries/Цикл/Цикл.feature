@@ -5,7 +5,7 @@
 #parent ua:
 @UA22_Использовать_циклы_в_сценариях
 
-@uf-part2
+@uf-part6
 @IgnoreOnWeb
 
 @tree

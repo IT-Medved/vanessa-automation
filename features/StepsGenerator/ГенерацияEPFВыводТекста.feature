@@ -5,7 +5,7 @@
 #parent ua:
 @UA10_генерировать_EPF_файлы
 
-@uf-part2
+@uf-part6
 @IgnoreOn82Builds
 @IgnoreOn836
 @IgnoreOn837

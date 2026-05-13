@@ -6,7 +6,7 @@
 @UA6_Работать_с_подключением_Test_client
 
 @ExportScenarios
-@uf-part2
+@uf-part5
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb

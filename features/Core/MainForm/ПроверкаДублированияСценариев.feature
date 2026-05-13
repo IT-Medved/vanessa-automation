@@ -6,7 +6,7 @@
 @UA19_формировать_отчет_Cucumber
 
 
-@uf-part1
+@uf-part2
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb

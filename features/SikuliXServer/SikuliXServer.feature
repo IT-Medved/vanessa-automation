@@ -22,7 +22,7 @@
 
 
 @tree
-@uf-part2
+@uf-part6
 
 
 Функциональность: Проверка работы SikuliX сервера (SikuliX server)

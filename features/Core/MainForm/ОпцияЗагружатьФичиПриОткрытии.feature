@@ -5,7 +5,7 @@
 #parent ua:
 @UA9_загружать_features
 
-@uf-part1
+@uf-part2
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb

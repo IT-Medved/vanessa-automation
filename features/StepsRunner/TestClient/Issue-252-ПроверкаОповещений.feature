@@ -6,7 +6,7 @@
 
 #https://github.com/silverbulleters/vanessa-behavior/issues/252
 
-@uf-part2
+@uf-part6
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb

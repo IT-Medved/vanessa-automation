@@ -6,7 +6,7 @@
 @UF6_текстовые_и_видео_инструкции
 
 @tree
-@uf-part2
+@uf-part5
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOn836

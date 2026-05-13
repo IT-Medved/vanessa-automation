@@ -5,7 +5,7 @@
 #parent ua:
 @UA11_запускать_сценарии_на_выполнение
 
-@uf-part1
+@uf-part2
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb

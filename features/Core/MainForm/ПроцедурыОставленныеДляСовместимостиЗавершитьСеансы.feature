@@ -5,7 +5,7 @@
 #parent ua:
 @UA6_Работать_с_подключением_Test_client
 
-@uf-part1
+@uf-part2
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb

@@ -4,7 +4,7 @@
 #parent ua:
 @UA20_формировать_прочие_отчеты
 
-@uf-part1
+@uf-part4
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb

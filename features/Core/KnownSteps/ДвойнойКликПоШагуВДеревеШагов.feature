@@ -5,7 +5,7 @@
 #parent ua:
 @UA38_манипулировать_загруженными_фичами
 
-@uf-part1
+@uf-part2
 @IgnoreOn82Builds
 @IgnoreOn836
 @IgnoreOn837

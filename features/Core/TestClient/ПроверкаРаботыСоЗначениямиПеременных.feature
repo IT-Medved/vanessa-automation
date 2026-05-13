@@ -5,7 +5,7 @@
 #parent ua:
 @UA5_Работать_с_контекстом_фич
 
-@uf-part1
+@uf-part4
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 

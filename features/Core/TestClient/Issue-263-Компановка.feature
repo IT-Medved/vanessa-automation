@@ -5,7 +5,7 @@
 #parent ua:
 @UA52_Работать_с_UI_прочее
 
-@uf-part1
+@uf-part3
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnUFSovm82Builds
