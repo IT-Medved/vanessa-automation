@@ -6,7 +6,7 @@
 @UF6_текстовые_и_видео_инструкции
 
 @tree
-@uf-part2
+@uf-part5
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOn836
@@ -193,6 +193,7 @@
 
 
 @IgnoreOnUFSovm82Builds
+@IgnoreOnCIMainBuild
 Сценарий: Проверка формирования видео с помощью VLC
 	
 	Если Версия платформы ">=" "8.3.12" Тогда

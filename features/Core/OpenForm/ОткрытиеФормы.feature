@@ -5,7 +5,7 @@
 #parent ua:
 @UA35_запускать_интерактивно
 
-@uf-part1
+@uf-part2
 @IgnoreOnWeb
 
 Функционал: Проверка открытия и закрытия формы vanessa-behavoir

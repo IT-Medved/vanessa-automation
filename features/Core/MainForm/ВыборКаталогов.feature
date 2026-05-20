@@ -5,7 +5,7 @@
 #parent ua:
 @UA34_указывать_настройки_выполнения_сценариев
 
-@uf-part1
+@uf-part2
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnUFSovm82Builds

@@ -5,7 +5,7 @@
 #parent uf:
 @UF3_формирование_features
 
-@uf-part2
+@uf-part4
 @IgnoreOn82Builds
 @IgnoreOn836
 @IgnoreOn837

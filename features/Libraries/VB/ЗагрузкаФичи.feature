@@ -5,7 +5,7 @@
 #parent ua:
 @UA9_загружать_features
 
-@uf-part2
+@uf-part5
 @IgnoreOnWeb
 
 Функционал: Загрузить фичу в vanessa-behavior 2

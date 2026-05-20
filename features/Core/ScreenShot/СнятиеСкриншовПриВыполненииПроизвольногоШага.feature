@@ -5,7 +5,7 @@
 #parent ua:
 @UA41_формировать_текстовые_инструкции
 
-@uf-part1
+@uf-part2
 @IgnoreOnOFBuilds
 @IgnoreOn82Builds
 @IgnoreOnWeb

@@ -5,7 +5,7 @@
 @UA5_Работать_с_контекстом_фич
 
 
-@uf-part2
+@uf-part6
 @IgnoreOnWeb
 
 

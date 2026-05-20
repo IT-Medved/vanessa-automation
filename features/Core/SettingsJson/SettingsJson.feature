@@ -6,7 +6,7 @@
 @UA34_указывать_настройки_выполнения_сценариев
 
 
-@uf-part1
+@uf-part2
 @IgnoreOn82Builds
 @IgnoreOnUFSovm82Builds
 @IgnoreOnOFBuilds

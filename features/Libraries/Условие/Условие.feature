@@ -5,7 +5,7 @@
 #parent ua:
 @UA23_Использовать_условия_в_сценариях
 
-@uf-part2
+@uf-part6
 @IgnoreOnWeb
 
 @tree

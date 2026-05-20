@@ -11,7 +11,7 @@
 	| '_1'    | 'Наименование' | 'Text' |
 	| '_2'    | 'Реквизит1'    | ''     |
 
-@uf-part2
+@uf-part4
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb

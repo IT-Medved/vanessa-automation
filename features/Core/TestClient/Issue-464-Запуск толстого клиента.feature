@@ -5,7 +5,7 @@
 #parent ua:
 @UA13_управлять_Test_clients
 
-@uf-part1
+@uf-part3
 @IgnoreOn82Builds
 @IgnoreOn836
 @IgnoreOn837

@@ -1,7 +1,7 @@
 ﻿# language: ru
 
 
-@uf-part2
+@uf-part4
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnNoSyncBuilds

@@ -69,6 +69,10 @@
    "ВерсияПлатформыДляГенерацииEPF": "C:/Program Files (x86)/1cv8/8.3.10.2772/bin",
    "СписокТеговИсключение":[
    "uf-part1",
+   "uf-part3",
+   "uf-part4",
+   "uf-part5",
+   "uf-part6",
    "IgnoreOnCIMainBuild",
    "IgnoreOn8327",
    "IgnoreOnUFBuilds", 

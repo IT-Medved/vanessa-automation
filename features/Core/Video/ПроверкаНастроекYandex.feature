@@ -6,7 +6,7 @@
 @UA40_проверять_формирование_видеоинструкций
 
 @tree
-@uf-part2
+@uf-part5
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnUFSovm82Builds

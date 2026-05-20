@@ -5,7 +5,7 @@
 #parent ua:
 @UA22_Использовать_циклы_в_сценариях
 
-@uf-part1
+@uf-part3
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb

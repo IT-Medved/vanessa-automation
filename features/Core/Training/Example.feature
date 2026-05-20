@@ -1,6 +1,6 @@
 ﻿# language: ru
 
-@uf-part2
+@uf-part4
 @IgnoreOnCIMainBuild
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds

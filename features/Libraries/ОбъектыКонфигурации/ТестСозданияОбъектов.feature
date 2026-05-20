@@ -5,7 +5,7 @@
 #parent ua:
 @UA8_Прочее
 
-@uf-part2
+@uf-part5
 @IgnoreOnOFBuilds
 @IgnoreOn836
 @IgnoreOn839

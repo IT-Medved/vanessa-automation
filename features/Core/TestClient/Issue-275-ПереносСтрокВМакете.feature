@@ -5,7 +5,7 @@
 #parent ua:
 @UA1_Работать_с_макетами_данных
 
-@uf-part1
+@uf-part3
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb8310

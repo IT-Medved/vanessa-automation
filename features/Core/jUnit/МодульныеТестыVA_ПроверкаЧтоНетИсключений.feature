@@ -4,7 +4,7 @@
 #parent ua:
 @UA21_формировать_отчет_jUnit
 
-@uf-part1
+@uf-part5
 @IgnoreOn82Builds
 @IgnoreOn836
 @IgnoreOnOFBuilds
@@ -358,4 +358,6 @@
 
 
 
+Сценарий: Закрытие клиента тестирования
+	И я закрываю сеанс текущего клиента тестирования
 	

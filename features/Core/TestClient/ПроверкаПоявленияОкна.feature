@@ -5,7 +5,7 @@
 #parent ua:
 @UA23_Использовать_условия_в_сценариях
 
-@uf-part1
+@uf-part3
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 

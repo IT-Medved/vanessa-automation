@@ -15357,6 +15357,7 @@ Standard: ffmpeg</v8:content>
 			<Template>MarkdownViewer</Template>
 			<Template>БазаЗнанийДляMCP</Template>
 			<Template>ЧастоИспользуемыеШаги</Template>
+			<Template>ОзвучкаОповещенияMCP</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>

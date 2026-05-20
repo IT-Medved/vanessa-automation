@@ -7,7 +7,7 @@
 #encoding: utf-8
 
 
-@uf-part2
+@uf-part5
 @IgnoreOnUFBuilds
 
 Функционал: Интерактивное нажатие кнопки в обычной форме

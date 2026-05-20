@@ -4,7 +4,7 @@
 #parent ua:
 @UA34_указывать_настройки_выполнения_сценариев
 
-@uf-part2
+@uf-part6
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb

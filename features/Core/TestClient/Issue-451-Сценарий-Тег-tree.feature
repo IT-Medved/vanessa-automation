@@ -6,7 +6,7 @@
 @UA16_парсить_features
 
 @tree
-@uf-part1
+@uf-part3
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
 @IgnoreOnWeb
