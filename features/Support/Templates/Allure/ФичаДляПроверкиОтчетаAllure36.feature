@@ -8,7 +8,8 @@
 @IgnoreOnCIMainBuild
 @tagname1:tagvalue1
 
-Функциональность: Прерывание сценария со статусом Failed
+Функциональность: ФичаДляПроверкиОтчетаAllure36
+ 
 @tagname2:tagvalue2
 Сценарий: ФичаДляПроверкиОтчетаAllure36
 
