@@ -41,6 +41,11 @@
 			<ContextMenu name="ИмяВладельцаКонтекстноеМеню" id="40"/>
 			<ExtendedTooltip name="ИмяВладельцаРасширеннаяПодсказка" id="41"/>
 		</InputField>
+		<InputField name="ОтборПоНаименованию" id="56">
+			<DataPath>ОтборПоНаименованию</DataPath>
+			<ContextMenu name="ОтборПоНаименованиюКонтекстноеМеню" id="57"/>
+			<ExtendedTooltip name="ОтборПоНаименованиюРасширеннаяПодсказка" id="58"/>
+		</InputField>
 		<InputField name="ДатаНачала" id="45">
 			<DataPath>ДатаНачала</DataPath>
 			<ContextMenu name="ДатаНачалаКонтекстноеМеню" id="46"/>
@@ -219,6 +224,21 @@
 				<v8:item>
 					<v8:lang>ru</v8:lang>
 					<v8:content>Для установки параметров</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="ОтборПоНаименованию" id="12">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Отбор по наименованию</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
