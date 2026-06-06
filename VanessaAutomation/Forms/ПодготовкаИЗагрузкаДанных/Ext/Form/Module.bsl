@@ -3727,7 +3727,6 @@ Function TranslationList(Val TranslateString = "") Export
 	Str.Insert("ТочкаМаршрута", "RoutePoint");
 	Str.Insert("БизнесПроцесс", "BusinessProcess");
 	Str.Insert("Счет", "Account");
-	Str.Insert("ПериодДействияБазовый", "ActionPeriodIsBasic");
 	
 	If IsBlankString(TranslateString) Then
 		Return Str;
