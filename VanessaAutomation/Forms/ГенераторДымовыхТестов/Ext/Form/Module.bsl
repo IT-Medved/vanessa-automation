@@ -3473,7 +3473,7 @@
 			|				If the warning is displayed then
 			|					Then I raise ""Failed to Mark to delete an existing item " + ПредставлениеОбъекта + """ exception" + "
 			|				If current form name is ""ErrorWindow"" Then
-			|					Then I raise ""Failed to Mark to delete an existing item" + ПредставлениеОбъекта + """ exception" + "
+			|					Then I raise ""Failed to Mark to delete an existing item " + ПредставлениеОбъекта + """ exception" + "
 			|
 			|		* Unmark to delete an existing item
 			|			Then '$ЗаголовокФормы$' window is opened
@@ -3484,7 +3484,7 @@
 			|				If the warning is displayed then
 			|					Then I raise ""Failed to Unmark to delete an existing item " + ПредставлениеОбъекта + """ exception" + "
 			|				If current form name is ""ErrorWindow"" Then
-			|					Then I raise ""Failed to Unmark to delete an existing item" + ПредставлениеОбъекта + """ exception");
+			|					Then I raise ""Failed to Unmark to delete an existing item " + ПредставлениеОбъекта + """ exception");
 			
 			
 			Если Параметры.ВидОбъектаЕЧ = "Справочник"
