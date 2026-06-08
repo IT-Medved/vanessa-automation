@@ -3465,7 +3465,7 @@
 			|					Then I raise ""Failed to Reread an existing item " + ПредставлениеОбъекта + """ exception" + "
 			|
 			|		* Mark to delete an existing item
-			|			Then '$ЗаголовокФормы$' window is opened'
+			|			Then '$ЗаголовокФормы$' window is opened
 			|			If '" + ПредставлениеФормаУстановитьПометкуУдаления + "' attribute is present on the form Then
 			|				And I click the button named '" + ПредставлениеФормаУстановитьПометкуУдаления + "'
 			|				If '" + ПредставлениеЗаголовка1CПредприятие +"' window is opened then
