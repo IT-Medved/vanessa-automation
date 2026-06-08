@@ -3545,7 +3545,13 @@
 				|				If the warning is displayed then
 				|					Then I raise ""Failed to Posting and close the document " + ПредставлениеОбъекта + """ exception" + "
 				|				If current form name is ""ErrorWindow"" Then
-				|					Then I raise ""Failed to Posting and close the document " + ПредставлениеОбъекта + """ exception");
+				|					Then I raise ""Failed to Posting and close the document " + ПредставлениеОбъекта + """ exception" + "
+				|	 Else
+				|		@screenshot
+				|		And note ""No posted document""
+				|		Then I stop script execution ""Skipped""
+				|
+				|");
 				
 			КонецЕсли;
 			
