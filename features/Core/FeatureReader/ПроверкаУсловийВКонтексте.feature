@@ -1,8 +1,4 @@
 ﻿# language: ru
-#parent uf:
-@UF8_Turbo_Gherkin
-#parent ua:
-@UA23_Использовать_условия_в_сценариях
 
 @uf-part1
 @IgnoreOn82Builds

@@ -146,7 +146,6 @@ Ctrl+I|контрол плюс-и
 MkDocs|эм ка докс
 Consul|консул
 BIA Technologies|БиАйЭй - Техн^олоджиз
-StoryMapper|стори м^апер
 FireFox|фаер фокс
 ff-for1c-ext|эф эф фо один эс
 GenVP|ген ви пи

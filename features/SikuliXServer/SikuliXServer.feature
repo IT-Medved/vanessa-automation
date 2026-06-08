@@ -1,8 +1,4 @@
 ﻿# language: ru
-#parent uf:
-@UF2_запуск_сценариев_на_выполнение
-#parent ua:
-@UA15_управлять_SikuliX
 
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
