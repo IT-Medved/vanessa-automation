@@ -152,7 +152,7 @@ mcpServers:
 
 ### 📝 ОписаниеЗадачи.md
 
-**Путь:** [`docs/AI/examples/ОписаниеЗадачи.md`](ОписаниеЗадачи.md)
+**Путь:** [`examples/ОписаниеЗадачи.md`](examples/ОписаниеЗадачи.md)
 
 **Назначение:** Пример оформления задания для ИИ-агента
 
@@ -170,7 +170,7 @@ mcpServers:
 
 ### 📋 1.Исследование.md
 
-**Путь:** [`docs/AI/examples/1.Исследование.md`](1.Исследование.md)
+**Путь:** [`examples/1.Исследование.md`](examples/1.Исследование.md)
 
 **Назначение:** Промт, который запускает работу исследователя, который выполняет требования к задаче "вручную" и собирает информацию.
 
@@ -178,7 +178,7 @@ mcpServers:
 
 ### 📋 2.Сценарий.md
 
-**Путь:** [`docs/AI/examples/2.Сценарий.md`](2.Сценарий.md)
+**Путь:** [`examples/2.Сценарий.md`](examples/2.Сценарий.md)
 
 **Назначение:** Промт, который запускает работу по написанию и отладке сценария.
 
@@ -186,7 +186,7 @@ mcpServers:
 
 ### 📋 InstructionsResearch.md
 
-**Путь:** [`docs/AI/examples/InstructionsResearch.md`](InstructionsResearch.md)
+**Путь:** [`examples/InstructionsResearch.md`](examples/InstructionsResearch.md)
 
 **Назначение:** Подробное руководство по работе исследователя.
 
@@ -201,7 +201,7 @@ mcpServers:
 
 ### 📋 InstructionsWriteScenario.md
 
-**Путь:** [`docs/AI/examples/InstructionsWriteScenario.md`](InstructionsWriteScenario.md)
+**Путь:** [`examples/InstructionsWriteScenario.md`](examples/InstructionsWriteScenario.md)
 
 **Назначение:** Подробное руководство по созданию сценариев тестирования для ИИ агента с использованием MCP инструментов.
 
@@ -216,7 +216,7 @@ mcpServers:
 
 ### 💾 Memory.MD
 
-**Путь:** [`docs/AI/examples/Memory.MD`](Memory.MD)
+**Путь:** [`examples/Memory.MD`](examples/Memory.MD)
 
 **Назначение:** Файл для хранения накопленного опыта тестирования.
 
