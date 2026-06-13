@@ -3465,7 +3465,7 @@
 			|					Then I raise ""Failed to Reread an existing item " + ПредставлениеОбъекта + """ exception" + "
 			|
 			|		* Mark to delete an existing item
-			|			Then '$ЗаголовокФормы$' window is opened'
+			|			Then '$ЗаголовокФормы$' window is opened
 			|			If '" + ПредставлениеФормаУстановитьПометкуУдаления + "' attribute is present on the form Then
 			|				And I click the button named '" + ПредставлениеФормаУстановитьПометкуУдаления + "'
 			|				If '" + ПредставлениеЗаголовка1CПредприятие +"' window is opened then
@@ -3473,7 +3473,7 @@
 			|				If the warning is displayed then
 			|					Then I raise ""Failed to Mark to delete an existing item " + ПредставлениеОбъекта + """ exception" + "
 			|				If current form name is ""ErrorWindow"" Then
-			|					Then I raise ""Failed to Mark to delete an existing item" + ПредставлениеОбъекта + """ exception" + "
+			|					Then I raise ""Failed to Mark to delete an existing item " + ПредставлениеОбъекта + """ exception" + "
 			|
 			|		* Unmark to delete an existing item
 			|			Then '$ЗаголовокФормы$' window is opened
@@ -3484,7 +3484,7 @@
 			|				If the warning is displayed then
 			|					Then I raise ""Failed to Unmark to delete an existing item " + ПредставлениеОбъекта + """ exception" + "
 			|				If current form name is ""ErrorWindow"" Then
-			|					Then I raise ""Failed to Unmark to delete an existing item" + ПредставлениеОбъекта + """ exception");
+			|					Then I raise ""Failed to Unmark to delete an existing item " + ПредставлениеОбъекта + """ exception");
 			
 			
 			Если Параметры.ВидОбъектаЕЧ = "Справочник"
@@ -3516,14 +3516,15 @@
 			ИначеЕсли Параметры.ВидОбъектаЕЧ = "Документ" 
 				И ОбъектМетаданных.Проведение = Метаданные.СвойстваОбъектов.Проведение.Разрешить Тогда 
 				
+				ПредставлениеФормаПровести = ПредставлениеВариантаВстроенногоЯзыка("ФормаПровести", Параметры.ВариантВстроенногоЯзыка);
 				ПредставлениеФормаПровестиИЗакрыть = ПредставлениеВариантаВстроенногоЯзыка("ФормаПровестиИЗакрыть", Параметры.ВариантВстроенногоЯзыка);
  				ПредставлениеФормаОтменаПроведения = ПредставлениеВариантаВстроенногоЯзыка("ФормаОтменаПроведения", Параметры.ВариантВстроенногоЯзыка);
 
 				Текст.ДобавитьСтроку("
 				|		* Posting document
 				|			Then '$ЗаголовокФормы$' window is opened
-				|			If 'FormPost'  attribute is present on the form Then
-				|				And I click the button named 'FormPost'
+				|			If '" + ПредставлениеФормаПровести +"' attribute is present on the form Then
+				|				And I click the button named '" + ПредставлениеФормаПровести +"'
 				|				If the warning is displayed then
 				|					Then I raise ""Failed to Posting document " + ПредставлениеОбъекта + """ exception" + "
 				|				If current form name is ""ErrorWindow"" Then
@@ -3545,7 +3546,13 @@
 				|				If the warning is displayed then
 				|					Then I raise ""Failed to Posting and close the document " + ПредставлениеОбъекта + """ exception" + "
 				|				If current form name is ""ErrorWindow"" Then
-				|					Then I raise ""Failed to Posting and close the document " + ПредставлениеОбъекта + """ exception");
+				|					Then I raise ""Failed to Posting and close the document " + ПредставлениеОбъекта + """ exception" + "
+				|	 Else
+				|		@screenshot
+				|		And note ""No posted document""
+				|		Then I stop script execution ""Skipped""
+				|
+				|");
 				
 			КонецЕсли;
 			
