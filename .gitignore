@@ -1,6 +1,7 @@
 *Log.txt
 *Err.txt
 *.epf
+*.erf
 lib/TemplateEpf/Temp/*.txt
 distr
 tools/allure-report
