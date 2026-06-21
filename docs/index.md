@@ -45,6 +45,7 @@
 * [Александр Кунташов. Автоматизация тестирования решений на 1С: Ожидания vs Реальность](https://infostart.ru/1c/articles/2407502/)
 * [Татьяна Головкина. От ручного тестирования до запусков в Docker: наш поиск идеального процесса](https://infostart.ru/1c/articles/2418640/)
 * [Пётр Стрелаев. Несколько способов как упросить анализ отчета Allure при работе с инструментом АТ в 1С Vanessa-Automation](https://habr.com/ru/articles/953962/)
+* [Илья Васильев. Использование Vanessa Automation в качестве RPA](https://infostart.ru/public/2719634/)
 
 ## СППР + Vanessa Automation
 
