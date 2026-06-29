@@ -25874,7 +25874,7 @@ Names template is built into Vanessa, the list contains the names of foreign eco
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I save a random number in the range from "%1 InitialValue" to "%2 FinalValue" to "%2 VariableName" variable</v8:content>
+							<v8:content>And I save a random number in the range from "%1 InitialValue" to "%2 FinalValue" to "%3 VariableName" variable</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -26827,7 +26827,7 @@ The rights to delete the extension and to launch the Designer are required.</v8:
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I install "%1 ExtensionName" extension from the source directory "%2 Extension Directory" in this database as "%2 Administrator" user with "%3 12345678" password</v8:content>
+							<v8:content>And I install "%1 ExtensionName" extension from the source directory "%2 Extension Directory" in this database as "%3 Administrator" user with "%4 12345678" password</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -51001,7 +51001,7 @@ A variable named as a column will be created when moving to the next line.</v8:c
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I click the button with "%1 ButtonHeader" header and "%1 ButtonName" name</v8:content>
+							<v8:content>And I click the button with "%1 ButtonHeader" header and "%2 ButtonName" name</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -64548,7 +64548,7 @@ A variable named as a column will be created when moving to the next line.</v8:c
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>And I program click "%3 HyperlinkValue" hyperlink value of "%1 LinkSearchString" hyperlink " on "%3 PartOfFormName" Form attribute</v8:content>
+							<v8:content>And I program click "%3 HyperlinkValue" hyperlink value of "%1 LinkSearchString" hyperlink " on "%2 PartOfFormName" Form attribute</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -65687,7 +65687,7 @@ A variable named as a column will be created when moving to the next line.</v8:c
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Then I stop script execution "ScriptStatus"</v8:content>
+							<v8:content>Then I stop script execution "%1 ScriptStatus"</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -81425,7 +81425,7 @@ If the passed table contains only one column then it is interpreted as an array.
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Then the text of current cell of "%1 Table" table became equal to "%3 FieldValue"</v8:content>
+							<v8:content>Then the text of current cell of "%1 Table" table became equal to "%2 FieldValue"</v8:content>
 						</v8:item>
 					</tl>
 				</c>
