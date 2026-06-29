@@ -14407,7 +14407,7 @@ Standard: ffmpeg</v8:content>
 			</Attribute>
 			<Attribute uuid="01ab91c6-f545-431a-ad7a-888b3bda149c">
 				<Properties>
-					<Name>ДымовыеТестыТолькоИзмененныеОтностительноКонфигурацииПоставщика</Name>
+					<Name>ДымовыеТестыТолькоИзмененныеОтносительноКонфигурацииПоставщика</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>

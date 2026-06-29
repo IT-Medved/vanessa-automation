@@ -365,13 +365,13 @@ Document3.ListForm</v8:content>
 												</Title>
 											</ExtendedTooltip>
 										</CheckBoxField>
-										<CheckBoxField name="ТолькоИзмененныеОтностительноКонфигурацииПоставщика" id="14">
-											<DataPath>ТолькоИзмененныеОтностительноКонфигурацииПоставщика</DataPath>
+										<CheckBoxField name="ТолькоИзмененныеОтносительноКонфигурацииПоставщика" id="14">
+											<DataPath>ТолькоИзмененныеОтносительноКонфигурацииПоставщика</DataPath>
 											<TitleLocation>Right</TitleLocation>
 											<ToolTipRepresentation>ShowBottom</ToolTipRepresentation>
 											<CheckBoxType>Auto</CheckBoxType>
-											<ContextMenu name="ТолькоИзмененныеОтностительноКонфигурацииПоставщикаКонтекстноеМеню" id="15"/>
-											<ExtendedTooltip name="ТолькоИзмененныеОтностительноКонфигурацииПоставщикаРасширеннаяПодсказка" id="16">
+											<ContextMenu name="ТолькоИзмененныеОтносительноКонфигурацииПоставщикаКонтекстноеМеню" id="15"/>
+											<ExtendedTooltip name="ТолькоИзмененныеОтносительноКонфигурацииПоставщикаРасширеннаяПодсказка" id="16">
 												<Title formatted="true">
 													<v8:item>
 														<v8:lang>ru</v8:lang>
@@ -388,7 +388,7 @@ Document3.ListForm</v8:content>
 												</Title>
 											</ExtendedTooltip>
 											<Events>
-												<Event name="OnChange">ТолькоИзмененныеОтностительноКонфигурацииПоставщикаПриИзменении</Event>
+												<Event name="OnChange">ТолькоИзмененныеОтносительноКонфигурацииПоставщикаПриИзменении</Event>
 											</Events>
 										</CheckBoxField>
 										<InputField name="ИмяКонфигурацииПоставщика" id="11">
@@ -1388,7 +1388,7 @@ Document3.ListForm</v8:content>
 			</Type>
 			<SavedData>true</SavedData>
 		</Attribute>
-		<Attribute name="ТолькоИзмененныеОтностительноКонфигурацииПоставщика" id="5">
+		<Attribute name="ТолькоИзмененныеОтносительноКонфигурацииПоставщика" id="5">
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>

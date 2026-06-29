@@ -15033,13 +15033,13 @@ Inställningen är nödvändig eftersom Vanessa Automation kan skapa bat-filer f
 																				</Title>
 																			</ExtendedTooltip>
 																		</CheckBoxField>
-																		<CheckBoxField name="ДымовыеТестыТолькоИзмененныеОтностительноКонфигурацииПоставщика" id="3971">
-																			<DataPath>Объект.ДымовыеТестыТолькоИзмененныеОтностительноКонфигурацииПоставщика</DataPath>
+																		<CheckBoxField name="ДымовыеТестыТолькоИзмененныеОтносительноКонфигурацииПоставщика" id="3971">
+																			<DataPath>Объект.ДымовыеТестыТолькоИзмененныеОтносительноКонфигурацииПоставщика</DataPath>
 																			<TitleLocation>Right</TitleLocation>
 																			<ToolTipRepresentation>ShowBottom</ToolTipRepresentation>
 																			<CheckBoxType>Auto</CheckBoxType>
-																			<ContextMenu name="ДымовыеТестыТолькоИзмененныеОтностительноКонфигурацииПоставщикаКонтекстноеМеню" id="3972"/>
-																			<ExtendedTooltip name="ДымовыеТестыТолькоИзмененныеОтностительноКонфигурацииПоставщикаРасширеннаяПодсказка" id="3973">
+																			<ContextMenu name="ДымовыеТестыТолькоИзмененныеОтносительноКонфигурацииПоставщикаКонтекстноеМеню" id="3972"/>
+																			<ExtendedTooltip name="ДымовыеТестыТолькоИзмененныеОтносительноКонфигурацииПоставщикаРасширеннаяПодсказка" id="3973">
 																				<Title formatted="true">
 																					<v8:item>
 																						<v8:lang>ru</v8:lang>
@@ -15056,7 +15056,7 @@ Inställningen är nödvändig eftersom Vanessa Automation kan skapa bat-filer f
 																				</Title>
 																			</ExtendedTooltip>
 																			<Events>
-																				<Event name="OnChange">ДымовыеТестыТолькоИзмененныеОтностительноКонфигурацииПоставщикаПриИзменении</Event>
+																				<Event name="OnChange">ДымовыеТестыТолькоИзмененныеОтносительноКонфигурацииПоставщикаПриИзменении</Event>
 																			</Events>
 																		</CheckBoxField>
 																		<InputField name="ДымовыеТестыИмяКонфигурацииПоставщика" id="3974">

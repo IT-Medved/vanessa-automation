@@ -24,7 +24,7 @@
 	
 	// путь к браузеру можно взять из ветки реестра "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe"
 	// значение параметра "Path" - "C:\Program Files\Google\Chrome\Application" или "C:\Program Files (x86)\Google\Chrome\Application"
-	// в результате получаем "C:\Program Files\Google\Chrome\Application\crhome.exe" или "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+	// в результате получаем "C:\Program Files\Google\Chrome\Application\chrome.exe" или "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 	
 	СисИнфо = Новый СистемнаяИнформация;
 	Если СисИнфо.ТипПлатформы = ТипПлатформы.Windows_x86 ИЛИ СисИнфо.ТипПлатформы = ТипПлатформы.Windows_x86_64 Тогда
